@@ -1,0 +1,27 @@
+
+msquid:S3008+"QRename this field "OPENED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÃèâùÿÿÿÿ
+isquid:S3008-"RRename this field "RUNTYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ˜†Ò
+Hsquid:S1444+",Make this "public static OPENED" field final(ÈÃèâùÿÿÿÿ
+Dsquid:S1444-"-Make this "public static RUNTYPE" field final(œ˜†Ò
+Bsquid:S1444T",Make this "public static debugD" field final(“˜‰u
+Hsquid:S1444U",Make this "public static debugE" field final(ú Ë½ûÿÿÿÿ
+Hsquid:S1444V",Make this "public static debugI" field final(éëàıÿÿÿÿ
+Hsquid:S1444W",Make this "public static debugV" field final(ËÅõÅıÿÿÿÿ
+Hsquid:S1444X",Make this "public static debugW" field final(ÜÅÒúÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck+"RMake OPENED a static final constant or non-public and provide accessors if needed.(ÈÃèâùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck-"SMake RUNTYPE a static final constant or non-public and provide accessors if needed.(œ˜†Ò
+"squid:ClassVariableVisibilityCheckT"RMake debugD a static final constant or non-public and provide accessors if needed.(“˜‰u
+…"squid:ClassVariableVisibilityCheckU"RMake debugE a static final constant or non-public and provide accessors if needed.(ú Ë½ûÿÿÿÿ
+…"squid:ClassVariableVisibilityCheckV"RMake debugI a static final constant or non-public and provide accessors if needed.(éëàıÿÿÿÿ
+…"squid:ClassVariableVisibilityCheckW"RMake debugV a static final constant or non-public and provide accessors if needed.(ËÅõÅıÿÿÿÿ
+…"squid:ClassVariableVisibilityCheckX"RMake debugW a static final constant or non-public and provide accessors if needed.(ÜÅÒúÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãÖøÃøÿÿÿÿ
+qsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—Ï‡	
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³ã´Ğşÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®ÃÁ‡
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è¿àäûÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–œ­ùÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹êƒ†
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™¹„Ïşÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ùê

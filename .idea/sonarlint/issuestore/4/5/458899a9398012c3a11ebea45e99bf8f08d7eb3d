@@ -1,0 +1,20 @@
+
+psquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ÍÂø
+usquid:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(­¶ü‹ûÿÿÿÿ
+rsquid:S1450,"VRemove the "gd_main" field and declare it as a local variable in the relevant methods.(”©ÃÆüÿÿÿÿ
+csquid:S1301›"KReplace this "switch" statement by "if" statements to increase readability.(ÜÖÞ“
+hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(â¤ÐÆþÿÿÿÿ
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ìÂÂ°
+csquid:CommentedOutCodeLinež"<This block of commented-out lines of code should be removed.(¡Õ±š
+csquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(Ù§ëÆ
+csquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(Ïèºí
+hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(Ä·”æûÿÿÿÿ
+csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(¥¬ÑÀ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å´óÞûÿÿÿÿ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(Ú°à¬
+bsquid:HiddenFieldCheck…":Rename "intent" which hides the field declared at line 47.(õ›ë÷ÿÿÿÿÿ
+Nsquid:S1135<"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Osquid:S1135Ä"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Osquid:S1135Ô"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Osquid:S1135ö"2Complete the task associated to this TODO comment.(â¸¶…ùÿÿÿÿ
+osquid:S00116,"RRename this field "gd_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”©ÃÆüÿÿÿÿ

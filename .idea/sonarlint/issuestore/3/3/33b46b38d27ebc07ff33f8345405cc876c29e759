@@ -1,0 +1,129 @@
+
+bsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ÕÍÊ
+bsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(ö´Ðs
+asquid:S4042Á"IUse "java.nio.Files#delete" here for better messages on error conditions.(¥Å¶³
+Jsquid:S1135®"2Complete the task associated to this TODO comment.(ÉÚõÎ
+osquid:S2177µ"WRename this method; there is a "private" method in the parent class with the same name.(šœ•²
+vsquid:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+Wsquid:S1068‚":Remove this unused "mTextViewSettingWeight" private field.(Â…ëéüÿÿÿÿ
+hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(˜Ù‰Æÿÿÿÿÿ
+Ssquid:S2696î"6Make the enclosing method "static" or remove this set.(ŒŒ§·øÿÿÿÿ
+Fsquid:S1068†"/Remove this unused "mMembername" private field.(Ú­ƒ
+@squid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+csquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(—ÂÞ…
+@squid:S1148Ó"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œù¸Šûÿÿÿÿ
+csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(£‚Å¿
+Osquid:S1135¸"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+squid:S1450‹"bRemove the "mRelativeLayoutArea" field and declare it as a local variable in the relevant methods.(©ÛÞæúÿÿÿÿ
+Nsquid:S2696í"6Make the enclosing method "static" or remove this set.( ÉÞ
+Nsquid:S1135q"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(õ™Ùìûÿÿÿÿ
+@squid:S1148¿"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Wsquid:S2387«":"mTextViewTitle" is the name of a field in "BaseFragment".(Í¼ç•þÿÿÿÿ
+Osquid:S1135™"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÝ"<This block of commented-out lines of code should be removed.(ð™Å‹þÿÿÿÿ
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(§™ø
+Jsquid:S1135›"2Complete the task associated to this TODO comment.(…ïœ†
+hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(öí©ñÿÿÿÿÿ
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(µ¹¹¸øÿÿÿÿ
+;squid:S1148ï"#Use a logger to log this exception.(Ç’Çê
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(üÐŸÇúÿÿÿÿ
+Usquid:S1068‡"=Remove this unused "mLinearLayoutTargetWeight" private field.(ÎÑ„¦
+hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÃÒòèÿÿÿÿÿ
+csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Ã¥ù©
+ssquid:S00116Œ"ZRename this field "mRl_step_switch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ²Õé
+˜squid:S1186ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç©êX
+Asquid:S1172‘"*Remove this unused method parameter "tag".(ñ—Î+
+xsquid:S00116"_Rename this field "mrl_bracelet_setting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îÿ©
+jsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(¡Õ±š8ÇÄ»ó«-
+vsquid:S1450œ"YRemove the "requestURL" field and declare it as a local variable in the relevant methods.(û‡Ï¢üÿÿÿÿ
+Osquid:S1135‡"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+wsquid:S00115x"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ™Ùìûÿÿÿÿ
+Gsquid:S00108ö")Either remove or fill this block of code.(•ù‡øÿÿÿÿ
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.( ÇÞ
+bsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(¬ñ°n
+Lsquid:EmptyStatementUsageCheckã"Remove this empty statement.(Åñ­õþÿÿÿÿ
+Xsquid:S1068‚";Remove this unused "mTextViewSettingStepLen" private field.(Â…ëéüÿÿÿÿ
+gsquid:S3027ì"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(Öà£Ÿùÿÿÿÿ
+gsquid:S3027×"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(—¡¥àýÿÿÿÿ
+Nsquid:S2696¹"6Make the enclosing method "static" or remove this set.(†’Ýü
+hsquid:S1301¤"KReplace this "switch" statement by "if" statements to increase readability.(öÛ«°þÿÿÿÿ
+csquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(ÝâŒí
+csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ß¼’ù
+zsquid:S1450Š"]Remove the "mBindDeviceBar" field and declare it as a local variable in the relevant methods.(¶”ýÀþÿÿÿÿ
+Asquid:S1481ƒ")Remove this unused "name" local variable.( Î¹·
+wsquid:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Bsquid:S00108÷")Either remove or fill this block of code.(å¥ž‡
+csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(‹¬ø¿
+Osquid:S1135›"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Osquid:S1135Õ"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+vsquid:S1450ˆ"YRemove the "mWeightBar" field and declare it as a local variable in the relevant methods.(ÍúîÇýÿÿÿÿ
+>squid:S1170ž"!Make this final field static too.(ßãüýþÿÿÿÿ
+Osquid:S1135×"2Complete the task associated to this TODO comment.(ù™»³ûÿÿÿÿ
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(Àùš…
+Lsquid:EmptyStatementUsageCheck¶"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(±è»Úþÿÿÿÿ
+csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ºÔ…ì
+Ksquid:S1905î".Remove this unnecessary cast to "WiperSwitch".(™à¸öüÿÿÿÿ
+psquid:S1450ƒ"SRemove the "mSex" field and declare it as a local variable in the relevant methods.(Çžšœùÿÿÿÿ
+Ssquid:S2696¼"6Make the enclosing method "static" or remove this set.(Òßèùÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck¤""Add a default case to this switch.(öÛ«°þÿÿÿÿ
+Nsquid:S2696±"6Make the enclosing method "static" or remove this set.(Ãç­Š
+zsquid:S1450«"]Remove the "mTextViewTitle" field and declare it as a local variable in the relevant methods.(Í¼ç•þÿÿÿÿ
+Rsquid:S1141à"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+bsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(ÂÞªd
+csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(‡ÀÍá
+Ssquid:S2696ñ"6Make the enclosing method "static" or remove this set.(«ÏÓ¡ÿÿÿÿÿ
+Ysquid:S1659"<Declare "mTextViewSettingSportTargetNum" on a separate line.(ŸÅ›ÿýÿÿÿÿ
+™squid:S1186ð"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÉÒë
+ssquid:S00116Ž"ZRename this field "setting_problem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åË€¸
+Osquid:S1135æ"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+@squid:S1148´"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Ssquid:S2696½"6Make the enclosing method "static" or remove this set.(«ÏÓ¡ÿÿÿÿÿ
+Ssquid:S2696ð"6Make the enclosing method "static" or remove this set.(Òßèùÿÿÿÿ
+R
+squid:S899Á";Do something with the "boolean" value returned by "delete".(¥Å¶³
+csquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(Û€¤”
+csquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(úçŸª
+Rsquid:S1659‚"5Declare "mTextViewSettingStepLen" on a separate line.(Â…ëéüÿÿÿÿ
+Rsquid:S1659"5Declare "mTextViewSettingNyGroup" on a separate line.(ŸÅ›ÿýÿÿÿÿ
+Ksquid:S1905ê".Remove this unnecessary cast to "WiperSwitch".(ôžöýÿÿÿÿ
+Asquid:S1481«")Remove this unused "info" local variable.(îÕ×­
+lsquid:S1450­"TRemove the "mBack" field and declare it as a local variable in the relevant methods.(úú ©
+vsquid:S1450‰"YRemove the "mHeightBar" field and declare it as a local variable in the relevant methods.(µÇú÷ùÿÿÿÿ
+Rsquid:S1141Ð"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Isquid:S1068—",Remove this unused "mVerCode" private field.(™êëÝüÿÿÿÿ
+vsquid:S00116´"XRename this field "mSw_startStep" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÐÞ³ýÿÿÿÿ
+@squid:S1148Î"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+csquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(ÝâŒí
+csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(†€éˆ
+hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(çÓùûüÿÿÿÿ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ª¸‹¦
+hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(™êëÝüÿÿÿÿ
+Osquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Psquid:S1068’"3Remove this unused "mTextViewNewPwd" private field.(Ñ™ÍÕþÿÿÿÿ
+bsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(¯¸‚j
+Jsquid:S1135ü"2Complete the task associated to this TODO comment.(…ïœ†
+Tsquid:S1197{"8Move the array designator from the variable to the type.(â–±ÿùÿÿÿÿ
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(ŽÄ¥øÿÿÿÿ
+@squid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(î‰¸Äÿÿÿÿÿ
+Wsquid:S3398¢"?Move this method into the anonymous class declared at line 949.(–ùùÆ
+@squid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+h
+squid:S128‘"LEnd this switch case with an unconditional break, return or throw statement.(Ýæ¯Øüÿÿÿÿ
+Osquid:S1135ê"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Nsquid:S2696º"6Make the enclosing method "static" or remove this set.(•ø‚ï
+hsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(‘…®Ûûÿÿÿÿ
+Osquid:S1135•"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(ÃÒòèÿÿÿÿÿ
+Osquid:S1135‡"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Osquid:S1135þ"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+hsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(ö™·‚þÿÿÿÿ
+jsquid:S00117ð"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÉÒë
+vsquid:S1450Ž"^Remove the "setting_problem" field and declare it as a local variable in the relevant methods.(åË€¸
+osquid:S00116µ"VRename this field "mSw_bootRun" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðð‰
+Tsquid:S1068…"7Remove this unused "mLinearLayoutHeight" private field.(Ð ˜þýÿÿÿÿ
+usquid:UselessImportCheckG"QRemove this unused import 'cmccsi.mhealth.app.sports.db.MHealthProviderMetaData'.(üë†á
+jsquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÃ ¢

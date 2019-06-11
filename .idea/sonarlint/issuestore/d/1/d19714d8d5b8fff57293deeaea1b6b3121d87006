@@ -1,0 +1,21 @@
+
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(‹ÛÏ•ýÿÿÿÿ
+psquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(®¨“ê
+Psquid:S2387é"8"mHandler" is the name of a field in "FragmentActivity".(ÅÆöª
+4squid:S2386 "Make this member "protected".(®¨“ê
+Osquid:S1135Ò"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Hsquid:S1444 "1Make this "public static allActivity" field final(®¨“ê
+vsquid:S1488Ü"_Immediately return this expression instead of assigning it to the temporary variable "display".(”é„
+Lsquid:EmptyStatementUsageCheckî"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Csquid:S1068#"'Remove this unused "TAG" private field.(ù‰»´úÿÿÿÿ
+bsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(¡ ëû
+>squid:S1185@"(Remove this method to simply inherit it.(ºŠñ=
+gsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(œÎÿ¸ùÿÿÿÿ
+bsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(ûƒÜž
+…"squid:ClassVariableVisibilityCheck "WMake allActivity a static final constant or non-public and provide accessors if needed.(®¨“ê
+hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(Ò³Öêùÿÿÿÿ
+hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(´£ç‚øÿÿÿÿ
+Nsquid:S1135]"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+ksquid:S00116#"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‰»´úÿÿÿÿ
+?squid:S1185L"(Remove this method to simply inherit it.(Ù«µ§
+ssquid:S3973_"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ÆÛ”Ÿûÿÿÿÿ

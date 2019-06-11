@@ -1,0 +1,12 @@
+
+Msquid:S2589"7Remove this expression which always evaluates to "true"(éå¾_
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(ËÄÄ‹
+Dsquid:S1444	".Make this "public static download" field final(Êè
+Msquid:S2589%"7Remove this expression which always evaluates to "true"(éå¾_
+"squid:ClassVariableVisibilityCheck	"TMake download a static final constant or non-public and provide accessors if needed.(Êè
+Lsquid:S1444"0Make this "public static newVerName" field final(ÕÆ²öúÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake newVerInfo a static final constant or non-public and provide accessors if needed.(õòÒşÿÿÿÿ
+Lsquid:S1444"0Make this "public static newVerCode" field final(“‰êêúÿÿÿÿ
+Lsquid:S1444"0Make this "public static newVerInfo" field final(õòÒşÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake newVerCode a static final constant or non-public and provide accessors if needed.(“‰êêúÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake newVerName a static final constant or non-public and provide accessors if needed.(ÕÆ²öúÿÿÿÿ

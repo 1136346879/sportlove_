@@ -1,0 +1,15 @@
+
+Tsquid:S3066Ã"<Lower the visibility of this setter or remove it altogether.(Ò’Š¯
+Tsquid:S3066Õ"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê
+Ysquid:S3066Ù"<Lower the visibility of this setter or remove it altogether.(÷Ğ™úÿÿÿÿ
+Ysquid:S3066á"<Lower the visibility of this setter or remove it altogether.(Ö§îıÿÿÿÿ
+Ysquid:S3066é"<Lower the visibility of this setter or remove it altogether.(ˆ Èıÿÿÿÿÿ
+{squid:S1488Ÿ"^Immediately return this expression instead of assigning it to the temporary variable "report".(èñ„£ùÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake type a static final constant or non-public and provide accessors if needed.(Éè¾Ïüÿÿÿÿ
+^squid:S2259C"BA "NullPointerException" could be thrown; "info" is nullable here.(òú²˜øÿÿÿÿ
+xsquid:S00115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Å¨·ğşÿÿÿÿ
+xsquid:S00115¥"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ™´ùşÿÿÿÿ
+xsquid:S00115§"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŸˆËÄùÿÿÿÿ
+xsquid:S00115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ·¤…ùÿÿÿÿ
+ssquid:S00115«"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ïìª
+xsquid:S00115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³áñŸÿÿÿÿÿ

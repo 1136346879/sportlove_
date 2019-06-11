@@ -1,0 +1,167 @@
+
+Ysquid:UnusedPrivateMethod¯"3Remove this unused private "getContactList" method.(æÉ”ê
+Lsquid:EmptyStatementUsageCheck¢"Remove this empty statement.(ôŸìúÿÿÿÿ
+ksquid:ModifiersOrderCheck¨"EReorder the modifiers to comply with the Java Language Specification.(Ù¿¦‰
+esquid:S3008l"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¸ƒö
+Fsquid:S1068x"/Remove this unused "getclubname" private field.(ıµÛ²
+vsquid:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Ì£àøÿÿÿÿ
+vsquid:S2293»	"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Ì£àøÿÿÿÿ
+qsquid:S1450x"ZRemove the "getclubname" field and declare it as a local variable in the relevant methods.(ıµÛ²
+@squid:S1444l")Make this "public static TAG" field final(ó¸ƒö
+Fsquid:S1444m"0Make this "public static strHttpURL" field final(¦ú½v
+Jsquid:S1444n"3Make this "public static avatarHttpURL" field final(²Éê‚
+Ssquid:S1444r"7Make this "public static strAccountHttpURL" field final(¢ÑËÏùÿÿÿÿ
+Gsquid:S2093ß"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Gsquid:S2093Š"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+bsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(¬‰¹—
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(±åÑ‚
+csquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(×Ãåª
+csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(§Œâ—
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(·˜®”
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(àÕ²¥
+hsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(·¥ÿ¥ûÿÿÿÿ
+csquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(•áúÃ
+bsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ºá›
+hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ŸÂãúÿÿÿÿ
+bsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(ºá›
+hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(¼åõüÿÿÿÿÿ
+hsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(©Ğıüÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡‰›‘ÿÿÿÿÿ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ãà‡
+csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(àÕ²¥
+hsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(Ì¯ûÿÿÿÿ
+csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(™Óâ‹
+bsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ÿÑˆ
+hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(¾¾ñÍùÿÿÿÿ
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(Òãñ ÿÿÿÿÿ
+csquid:CommentedOutCodeLineò	"<This block of commented-out lines of code should be removed.(œÇ®
+hsquid:CommentedOutCodeLine„
+"<This block of commented-out lines of code should be removed.(İÅ¥œıÿÿÿÿ
+P
+squid:S106ú	"9Replace this use of System.out or System.err by a logger.(€€úÑ
+Ssquid:S2696Æ"6Make the enclosing method "static" or remove this set.(¹´¦Ûüÿÿÿÿ
+Ssquid:S2696Ç"6Make the enclosing method "static" or remove this set.(âœÊ¼úÿÿÿÿ
+Nsquid:S2696È"6Make the enclosing method "static" or remove this set.(Ğı’‰
+Nsquid:S2696
+"6Make the enclosing method "static" or remove this set.(Îó–†
+Nsquid:S2696
+"6Make the enclosing method "static" or remove this set.(ãªº¿
+Ssquid:S2696±
+"6Make the enclosing method "static" or remove this set.(† ÒÖÿÿÿÿÿ
+Ssquid:S2696³
+"6Make the enclosing method "static" or remove this set.(âœÊ¼úÿÿÿÿ
+Ssquid:S2696´
+"6Make the enclosing method "static" or remove this set.(çóğ¹ûÿÿÿÿ
+Rsquid:S1141—"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+}"squid:ClassVariableVisibilityCheckl"OMake TAG a static final constant or non-public and provide accessors if needed.(ó¸ƒö
+ƒ"squid:ClassVariableVisibilityCheckm"VMake strHttpURL a static final constant or non-public and provide accessors if needed.(¦ú½v
+‡"squid:ClassVariableVisibilityCheckn"YMake avatarHttpURL a static final constant or non-public and provide accessors if needed.(²Éê‚
+"squid:ClassVariableVisibilityCheckr"]Make strAccountHttpURL a static final constant or non-public and provide accessors if needed.(¢ÑËÏùÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheckw"TMake muserUid a static final constant or non-public and provide accessors if needed.(ææâµÿÿÿÿÿ
+Osquid:S1135›"2Complete the task associated to this TODO comment.(æÛœğıÿÿÿÿ
+Osquid:S1135 "2Complete the task associated to this TODO comment.(æÛœğıÿÿÿÿ
+Osquid:S1135¥"2Complete the task associated to this TODO comment.(æÛœğıÿÿÿÿ
+Osquid:S1135×"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+Osquid:S1135ä"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+Osquid:S1135ò"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+Osquid:S1135"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+Osquid:S1135¸"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+Osquid:S1135Û"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Osquid:S1135¿"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+Jsquid:S1135®	"2Complete the task associated to this TODO comment.(ñ×»“
+Osquid:S1135Ã	"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+Osquid:S1135Œ
+"2Complete the task associated to this TODO comment.(æÛœğıÿÿÿÿ
+Osquid:S1135º
+"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+gsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â—Óæ
+lsquid:S00100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îİÎˆøÿÿÿÿ
+>squid:S1172¯"&Remove these unused method parameters.(æÉ”ê
+Lsquid:S1172œ"/Remove this unused method parameter "PhoneNum".(Ò²€¤øÿÿÿÿ
+Csquid:S1172Õ"&Remove these unused method parameters.(†Á½–ÿÿÿÿÿ
+Csquid:S1172û"&Remove these unused method parameters.(ºÍòÑÿÿÿÿÿ
+>squid:S1172„"&Remove these unused method parameters.(Ä§°÷
+Csquid:S1172¥"&Remove these unused method parameters.(·×ÔÈÿÿÿÿÿ
+>squid:S1172È"&Remove these unused method parameters.(­´³Ò
+Csquid:S1172Î"&Remove these unused method parameters.(“’àøùÿÿÿÿ
+Lsquid:S1172ù"/Remove this unused method parameter "Password".(îİÎˆøÿÿÿÿ
+Fsquid:S1172²".Remove this unused method parameter "context".(Ñ§¦â
+Jsquid:S1172¥
+"2Remove this unused method parameter "serversInfo".(â¢¢
+^squid:S2259Á"FA "NullPointerException" could be thrown; "instream" is nullable here.(Á‚ú›
+^squid:S2259£"FA "NullPointerException" could be thrown; "instream" is nullable here.(Á‚ú›
+Csquid:S1168¸"+Return an empty collection instead of null.(¥¹ï
+Zsquid:S00107Õ"<Method has 8 parameters, which is greater than 7 authorized.(†Á½–ÿÿÿÿÿ
+Bsquid:S00108¾")Either remove or fill this block of code.(ÛÜ°«
+]squid:S2147Á"ECombine this catch with the one at line 190, which has the same body.(ï­£Ä
+bsquid:S2147"ECombine this catch with the one at line 279, which has the same body.(‰•’şÿÿÿÿ
+]squid:S2147Ú"ECombine this catch with the one at line 855, which has the same body.(ï­£Ä
+]squid:S2147ä"ECombine this catch with the one at line 855, which has the same body.(”ı¾
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò²€¤øÿÿÿÿ
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò²€¤øÿÿÿÿ
+osquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Á½–ÿÿÿÿÿ
+osquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Á½–ÿÿÿÿÿ
+osquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Á½–ÿÿÿÿÿ
+osquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÍòÑÿÿÿÿÿ
+osquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÍòÑÿÿÿÿÿ
+jsquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä§°÷
+jsquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä§°÷
+osquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·×ÔÈÿÿÿÿÿ
+osquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·×ÔÈÿÿÿÿÿ
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­´³Ò
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­´³Ò
+osquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“’àøùÿÿÿÿ
+osquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“’àøùÿÿÿÿ
+osquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îİÎˆøÿÿÿÿ
+osquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îİÎˆøÿÿÿÿ
+osquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼©‘•ùÿÿÿÿ
+jsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛğÇæ
+osquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çæñ¡ùÿÿÿÿ
+jsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù³ñÑ
+jsquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÄï
+jsquid:S00117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ü‘
+jsquid:S00117à	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÿĞ¥
+hsquid:UselessImportCheckM"DRemove this unused import 'cmccsi.mhealth.app.sports.bean.Response'.(¿ì™Ê
+usquid:UselessImportCheck,"LRemove this unused import 'cmccsi.mhealth.app.sports.bean.ContectGroupInfo'.(”ößıÿÿÿÿ
+rsquid:UselessImportCheckD"IRemove this unused import 'cmccsi.mhealth.app.sports.bean.OrgnizememSeq'.(•ßŠüşÿÿÿÿ
+usquid:UselessImportCheck+"LRemove this unused import 'cmccsi.mhealth.app.sports.bean.ContectGroupData'.(ÙæÕ•úÿÿÿÿ
+psquid:UselessImportCheck<"GRemove this unused import 'cmccsi.mhealth.app.sports.bean.GroupPkInfo'.(’Ã¶›üÿÿÿÿ
+tsquid:UselessImportCheckX"QRemove this unused import 'cmccsi.mhealth.app.sports.bean.VitalSignInfoDataBean'.(Ûœ¬]
+qsquid:UselessImportCheckR"HRemove this unused import 'cmccsi.mhealth.app.sports.bean.TempCodeInfo'.(¢“îşÿÿÿÿ
+ksquid:UselessImportCheckK"GRemove this unused import 'cmccsi.mhealth.app.sports.bean.RankingDate'.(…ÿ¬
+lsquid:UselessImportCheckW"IRemove this unused import 'cmccsi.mhealth.app.sports.bean.VitalSignInfo'.(—ßìI
+ysquid:UselessImportCheckY"PRemove this unused import 'cmccsi.mhealth.app.sports.bean.VitalSignUploadState'.(»ƒÓúúÿÿÿÿ
+wsquid:UselessImportCheckS"NRemove this unused import 'cmccsi.mhealth.app.sports.bean.UpdatePasswordInfo'.(Ù€„úÿÿÿÿ
+{squid:UselessImportCheck="RRemove this unused import 'cmccsi.mhealth.app.sports.bean.GroupRankUpdateVersion'.(¼Äâ›øÿÿÿÿ
+psquid:UselessImportCheck:"GRemove this unused import 'cmccsi.mhealth.app.sports.bean.GroupIdInfo'.(ªÌæŠıÿÿÿÿ
+jsquid:UselessImportCheckZ"FRemove this unused import 'cmccsi.mhealth.app.sports.bean.WeightInfo'.(£’½©
+msquid:UselessImportCheckG"IRemove this unused import 'cmccsi.mhealth.app.sports.bean.PedometorInfo'.(õíÖú
+hsquid:UselessImportCheckI"DRemove this unused import 'cmccsi.mhealth.app.sports.bean.RaceInfo'.(¬°œ•
+~squid:UselessImportCheck"URemove this unused import 'cmccsi.mhealth.app.sports.bean.ActivityDetailMessageInfo'.(ï„‹«ûÿÿÿÿ
+nsquid:UselessImportCheck1"JRemove this unused import 'cmccsi.mhealth.app.sports.bean.DeviceTypeInfo'.(˜±ı‰
+vsquid:UselessImportCheck;"MRemove this unused import 'cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo'.(šöãøÿÿÿÿ
+ssquid:UselessImportCheckQ"JRemove this unused import 'cmccsi.mhealth.app.sports.bean.SimplePostInfo'.(Õıûÿÿÿÿ
+osquid:UselessImportCheckC"LRemove this unused import 'cmccsi.mhealth.app.sports.bean.OrgnizeMemberSum'.(Æø£d
+usquid:UselessImportCheckb"QRemove this unused import 'cmccsi.mhealth.app.sports.db.MHealthProviderMetaData'.(üë†á
+nsquid:UselessImportCheckE"JRemove this unused import 'cmccsi.mhealth.app.sports.bean.PedoDetailInfo'.(÷İ”ö
+nsquid:UselessImportCheckJ"JRemove this unused import 'cmccsi.mhealth.app.sports.bean.RaceMemberInfo'.(¬µ†ª
+@squid:S1148¿"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+;squid:S1148Å"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148”"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148›"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148¥"#Use a logger to log this exception.(Û™İ¹
+@squid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+;squid:S1148¶"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148¼"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Ã"#Use a logger to log this exception.(Û™İ¹
+@squid:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+;squid:S1148â"#Use a logger to log this exception.(Ç’Çê
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Rsquid:S1143¦"5Remove this return statement from this finally block.(Ú’ÚÂıÿÿÿÿ
+Rsquid:S1143Ä"5Remove this return statement from this finally block.(Ú’ÚÂıÿÿÿÿ
+Vsquid:S1155µ">Use isEmpty() to check whether the collection is empty or not.(äé¶·
+[squid:S1155»">Use isEmpty() to check whether the collection is empty or not.(¾ƒ½Öøÿÿÿÿ
