@@ -26,6 +26,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/debug/cmccsi/mhealth/app/sports/test/BuildConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/cmccsi/mhealth/app/sports/BuildConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/generated/source/r/debug/cmccsi/mhealth/app/sports/R.java" beforeDir="false" />
@@ -1750,6 +1751,7 @@
       <change beforePath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/basic/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/basic/BaseActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/basic/MapApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/basic/MapApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/common/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/common/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1773,69 +1775,103 @@
     <session id="-279618699">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="5" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="apk" value="1" />
           <entry key="class" value="1" />
           <entry key="config" value="1" />
-          <entry key="gradle" value="2" />
-          <entry key="java" value="71" />
-          <entry key="png" value="22" />
+          <entry key="gradle" value="5" />
+          <entry key="java" value="81" />
+          <entry key="png" value="24" />
           <entry key="properties" value="2" />
-          <entry key="xml" value="31" />
+          <entry key="xml" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="APK" value="1" />
           <entry key="CLASS" value="1" />
-          <entry key="Groovy" value="2" />
-          <entry key="Image" value="22" />
-          <entry key="JAVA" value="71" />
+          <entry key="Groovy" value="5" />
+          <entry key="Image" value="24" />
+          <entry key="JAVA" value="81" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="2" />
-          <entry key="XML" value="31" />
+          <entry key="XML" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="89" />
-          <entry key="xml" value="39" />
+          <entry key="gradle" value="5" />
+          <entry key="java" value="122" />
+          <entry key="xml" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="89" />
-          <entry key="XML" value="39" />
+          <entry key="Groovy" value="5" />
+          <entry key="JAVA" value="122" />
+          <entry key="XML" value="60" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3062">
+            <state relative-caret-position="4512">
               <caret line="338" column="51" selection-start-line="338" selection-start-column="51" selection-end-line="338" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="606" selection-start-line="606" selection-end-line="606" />
+            <state relative-caret-position="-264">
+              <caret line="151" column="26" selection-start-line="151" selection-start-column="26" selection-end-line="151" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4480">
+              <caret line="387" selection-start-line="387" selection-end-line="387" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
         </entry>
       </file>
     </leaf>
@@ -1866,11 +1902,16 @@
       <find>DialogWindowTitle</find>
       <find>loading</find>
       <find>icon</find>
+      <find>v2SigningEnabled</find>
+      <find>注销登录</find>
+      <find>setting_exit</find>
+      <find>每日达人</find>
+      <find>targetSdkVersion</find>
     </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
-    <option name="KEY_STORE_PATH" value="E:\222\android\keystore\fsyuncai.jks" />
-    <option name="KEY_ALIAS" value="fsyuncai" />
+    <option name="KEY_STORE_PATH" value="F:\ceshi.jks" />
+    <option name="KEY_ALIAS" value="ceshi.jks" />
     <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
@@ -3418,7 +3459,6 @@
         <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity2.java" />
         <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/basic/MapApplication.java" />
         <option value="$PROJECT_DIR$/res/layout/dialog_delete.xml" />
-        <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp.java" />
         <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/FirmwareDownloadProgressActivity.java" />
         <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/common/Config.java" />
         <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/bean/UrlEntity.java" />
@@ -3429,14 +3469,19 @@
         <option value="$PROJECT_DIR$/res/layout/title_menu.xml" />
         <option value="$PROJECT_DIR$/res/layout/activity_progressupdate.xml" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/layout/activity_setting_app.xml" />
+        <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java" />
+        <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3" />
-    <option name="width" value="1614" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1" />
+    <option name="y" value="31" />
+    <option name="width" value="1620" />
     <option name="height" value="820" />
   </component>
   <component name="ProjectView">
@@ -3444,19 +3489,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="lovesportsApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="JPushExample(1317438)" type="feadf853:AndroidModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -3477,41 +3509,29 @@
             </path>
             <path>
               <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovesportsApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="outputs" type="462c0819:PsiDirectoryNode" />
-              <item name="apk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovesportsApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovesportsApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovesportsApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sports" type="462c0819:PsiDirectoryNode" />
-              <item name="activity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lovesportsApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="JPushExample(1317438)" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DEBUGGABLE_DEVICE" value="huawei-huawei_mt2_l02-7N2PJR143H014798" />
+    <property name="DEBUGGABLE_DEVICE" value="vivo-vivo_x21a-1103c4fb" />
     <property name="DEBUGGABLE_PROCESS" value="cmccsi.mhealth.app.sports" />
     <property name="DEBUGGER_ID" value="Auto" />
     <property name="ExportApk.ApkPath" value="F:\gitDemo\sportlove\lovesportsApp" />
@@ -3520,8 +3540,8 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/proSoft/sdk" />
-    <property name="device.picker.selection" value="7N2PJR143H014798" />
-    <property name="last_opened_file_path" value="E:/222/android/keystore/fsyuncai.jks" />
+    <property name="device.picker.selection" value="1103c4fb" />
+    <property name="last_opened_file_path" value="F:/ceshi.jks" />
     <property name="settings.editor.selected.configurable" value="experimental" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="1.5.0" />
   </component>
@@ -3709,10 +3729,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2626788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25812745" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -3721,15 +3741,15 @@
       <window_info id="Captures" order="6" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.496749" weight="0.09490085" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49544865" weight="0.16997167" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4973992" weight="0.062322944" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.496749" weight="0.062322944" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.67945385" visible="true" weight="0.33144477" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.52990896" visible="true" weight="0.20254958" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.32054615" side_tool="true" visible="true" weight="0.33144477" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.47009102" side_tool="true" visible="true" weight="0.20254958" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
       <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.6183355" weight="0.18053597" />
       <window_info anchor="bottom" id="Version Control" order="12" />
@@ -3786,27 +3806,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java</url>
-          <line>796</line>
+          <line>798</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java</url>
-          <line>797</line>
+          <line>799</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp.java</url>
-          <line>815</line>
+          <line>816</line>
           <properties />
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java</url>
-          <line>727</line>
-          <properties />
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/FirmwareDownloadProgressActivity.java</url>
@@ -3886,60 +3900,16 @@
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java</url>
+          <line>696</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JPushExample(1317438)/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="16" column="66" lean-forward="true" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JPushExample(1317438)/src/com/example/jpushdemo/MyJPushMessageReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JPushExample(1317438)/src/com/example/jpushdemo/PushService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/bean/GoalInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="112" column="23" lean-forward="true" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JPushExample(1317438)/src/com/example/jpushdemo/TestActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="24" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JPushExample(1317438)/src/com/example/jpushdemo/MyReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JPushExample(1317438)/src/com/example/jpushdemo/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/proSoft/sdk/sources/android-23/android/content/Context.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -4095,13 +4065,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/background.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -4146,18 +4109,8 @@
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/loading.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5552">
-          <caret line="347" column="17" selection-start-line="347" selection-start-column="17" selection-end-line="347" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/logo.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/basic/MapApplication.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -4165,14 +4118,6 @@
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="126" column="19" selection-start-line="126" selection-start-column="19" selection-end-line="126" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -4195,20 +4140,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java">
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="606" selection-start-line="606" selection-end-line="606" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="245">
+          <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="62" column="72" lean-forward="true" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="707" column="28" selection-start-line="707" selection-start-column="28" selection-end-line="707" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_setting_app.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="690" column="51" selection-start-line="690" selection-start-column="51" selection-end-line="690" selection-end-column="51" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/WebViewFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lovesportsApp-release.apk">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JPushExample(1317438)/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="6" column="67" lean-forward="true" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3062">
+        <state relative-caret-position="4512">
           <caret line="338" column="51" selection-start-line="338" selection-start-column="51" selection-end-line="338" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/tabhost/SettingFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4480">
+          <caret line="387" selection-start-line="387" selection-end-line="387" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="151" column="26" selection-start-line="151" selection-start-column="26" selection-end-line="151" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

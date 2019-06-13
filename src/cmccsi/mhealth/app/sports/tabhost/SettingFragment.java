@@ -694,6 +694,8 @@ public class SettingFragment extends BaseFragment implements OnClickListener, On
 			startActivity(intent);
 			break;
 		case R.id.setting_exit:
+		    if(true)
+			return;
 			clearServise();
 			//结束手机已上传数据
 			if(PreferencesUtils.getInt(mActivity, SharedPreferredKey.DEVICE_TYPE, 0)!=DeviceConstants.DEVICE_MOBILE_STEP){

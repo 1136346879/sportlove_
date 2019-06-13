@@ -149,7 +149,7 @@ public class PreLoadActivity extends BaseActivity {
 		runOnUiThread(new Runnable() {
 			@Override
 			public void run() {
-				if(status==1){
+				if(status == 1){
 					Intent intent = new Intent();
 					intent.putExtra("downloadsite", UpdateSoftWareTools.download);
 					intent.setClass(PreLoadActivity.this, PreLoadAPKUpdateProgressActivity.class);

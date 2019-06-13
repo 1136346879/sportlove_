@@ -89,3 +89,7 @@ J
 res/layout/view_basic5.xml,c\c\cc1c6f4993e684a664d0862f8656a14b17b6678a
 6
 config,d\f\dfba7aade0868074c2861c98e2a9a92f3178a51b
+S
+#res/layout/activity_setting_app.xml,e\8\e85d825044fc05ed2a8f93aa6fecee1f33de94ea
+j
+:src/cmccsi/mhealth/app/sports/tabhost/WebViewFragment.java,a\1\a1b729a7ceee4cb330f51f7306d3a9336894eff4
