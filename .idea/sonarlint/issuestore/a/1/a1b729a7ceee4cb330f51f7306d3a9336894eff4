@@ -1,54 +1,0 @@
-
-Ysquid:UnusedPrivateMethod­".Remove this unused private "modifyDay" method.(ƒËÖ—úÿÿÿÿ
-Osquid:S1197*"8Move the array designator from the variable to the type.(¹ŞšÛ
-Tsquid:S1197+"8Move the array designator from the variable to the type.(‡æÄÈüÿÿÿÿ
->squid:S1068("'Remove this unused "TAG" private field.(Ò‘ı
-Csquid:S1068*",Remove this unused "TYPENAME" private field.(¹ŞšÛ
-Jsquid:S10684".Remove this unused "bIsSubPage" private field.(Öâ…Şşÿÿÿÿ
-Nsquid:S10687"2Remove this unused "isNeedCalender" private field.(İÃŸÙûÿÿÿÿ
-@squid:S10688")Remove this unused "mBack" private field.(úú ©
-Dsquid:S1068:"-Remove this unused "errorFlag" private field.(ÍÃª‰
-gsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(áüµØúÿÿÿÿ
-bsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(˜Öí³
-gsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(£½ö¾üÿÿÿÿ
-csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(ÁÏÌ—
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Â«Ì
-csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(øí¯ê
-hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(‘—‘×ıÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡ĞÌÅüÿÿÿÿ
-hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(„ˆøùÿÿÿÿ
-hsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(Ï­¬şÿÿÿÿ
-hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(‚°ìøüÿÿÿÿ
-hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(îœŸ‹ûÿÿÿÿ
-csquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(ØŒİÔ
-csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(ºêíÈ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç”¬¬ıÿÿÿÿ
-csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(¡Ëş˜
-hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(¥ãïÿÿÿÿÿ
-csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(óÌ‘©
-hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.( Ò¼şøÿÿÿÿ
-hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(¿™ÈŸøÿÿÿÿ
-csquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(æ£§è
-hsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(îœŸ‹ûÿÿÿÿ
-csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(™Ã¦î
-csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ÎÏ£ò
-hsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(µ¶¸õşÿÿÿÿ
-csquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(†é¿Œ
-hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(Øâ”ıÿÿÿÿÿ
-hsquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(µ¶¸õşÿÿÿÿ
-csquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(±¯€¤
-hsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.( ®¯ûÿÿÿÿ
-csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(µì²È
-hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(Úö”èüÿÿÿÿ
-U
-squid:S106€"9Replace this use of System.out or System.err by a logger.(Ã—òÍıÿÿÿÿ
-Zsquid:HiddenFieldCheck¤"7Rename "URL" which hides the field declared at line 47.(ŞÊÕİ
-Osquid:S1135”"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Csquid:S1481â"+Remove this unused "intent" local variable.(„ò©¨
-]squid:CallToDeprecatedMethod"/Remove this use of "getDate"; it is deprecated.( µäòùÿÿÿÿ
-]squid:CallToDeprecatedMethod"/Remove this use of "getDate"; it is deprecated.( µäòùÿÿÿÿ
-Esquid:S1185Ö"(Remove this method to simply inherit it.(ı¤Ğüùÿÿÿÿ
-9squid:S2386+"Make this member "protected".(‡æÄÈüÿÿÿÿ
-fsquid:S00116/"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºë½Ñ
-tsquid:S001169"WRename this field "iv_loaderror" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õÀ³ÿÿÿÿÿ
-jsquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÊÕİ

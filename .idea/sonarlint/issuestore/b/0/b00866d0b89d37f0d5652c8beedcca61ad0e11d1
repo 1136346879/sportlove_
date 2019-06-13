@@ -1,34 +1,0 @@
-
-bsquid:S3027"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(Õ£¾¤
-Lsquid:EmptyStatementUsageCheck€"Remove this empty statement.(ôŸìúÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckú"Remove this empty statement.(ôŸìúÿÿÿÿ
-U"squid:SwitchLastCaseIsDefaultCheck6""Add a default case to this switch.(ıŞ³‹ùÿÿÿÿ
-U"squid:SwitchLastCaseIsDefaultCheck;""Add a default case to this switch.(¿‹òõüÿÿÿÿ
-[squid:S3398Í">Move this method into the anonymous class declared at line 51.(Øıùüÿÿÿÿÿ
-msquid:S1450&"VRemove the "mStrURL" field and declare it as a local variable in the relevant methods.(ÍÜ¢´
-~squid:S4165O"gRemove this useless assignment; "successed" already holds the assigned value along all execution paths.(ÔôÄ†
-~squid:S4165W"gRemove this useless assignment; "successed" already holds the assigned value along all execution paths.(ÔôÄ†
-~squid:S4165_"gRemove this useless assignment; "successed" already holds the assigned value along all execution paths.(ÔôÄ†
-~squid:S4165C"gRemove this useless assignment; "successed" already holds the assigned value along all execution paths.(ÔôÄ†
-~squid:S4165K"gRemove this useless assignment; "successed" already holds the assigned value along all execution paths.(ÔôÄ†
-~squid:S4165["gRemove this useless assignment; "successed" already holds the assigned value along all execution paths.(ÔôÄ†
-~squid:S4165G"gRemove this useless assignment; "successed" already holds the assigned value along all execution paths.(ÔôÄ†
-~squid:S4165S"gRemove this useless assignment; "successed" already holds the assigned value along all execution paths.(ÔôÄ†
-3squid:S3626Â"Remove this redundant jump.(ûÁİ…
-Nsquid:S1135"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
-Osquid:S1135°"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Osquid:S1135¹"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Osquid:S1135ö"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Fsquid:S1481ñ")Remove this unused "back" local variable.(‹´ÆÜÿÿÿÿÿ
-Ksquid:S23873"4"mHandler" is the name of a field in "BaseActivity".(¿´»
-tsquid:S00116ƒ"[Rename this field "_connect_timeout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯â¹ì
-isquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºšè±
-msquid:UselessImportCheck"DRemove this unused import 'cmccsi.mhealth.app.sports.common.Common'.(òº€«ûÿÿÿÿ
-vsquid:UselessImportCheck"MRemove this unused import 'cmccsi.mhealth.app.sports.device.DeviceConstants'.(ÅÃôŞøÿÿÿÿ
-Psquid:S2130Ó"9Use "Integer.parseInt" for this string-to-int conversion.(œåñ,
-Vsquid:S2130Ô"9Use "Integer.parseInt" for this string-to-int conversion.(œŞ±İøÿÿÿÿ
-Vsquid:S2130Õ"9Use "Integer.parseInt" for this string-to-int conversion.(‰·Áúÿÿÿÿ
-Qsquid:S2130×"9Use "Integer.parseInt" for this string-to-int conversion.(öˆ£’
-Qsquid:S2130Ø"9Use "Integer.parseInt" for this string-to-int conversion.(Š»íæ
-Vsquid:S2130Ù"9Use "Integer.parseInt" for this string-to-int conversion.(‰Üğûÿÿÿÿÿ
-Rsquid:S1161î":Add the "@Override" annotation above this method signature(“–ış

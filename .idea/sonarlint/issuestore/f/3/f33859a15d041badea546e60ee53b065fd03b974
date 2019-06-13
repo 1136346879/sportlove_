@@ -1,49 +1,0 @@
-
-^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8¿ë…Ç¬-
-[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8¿ë…Ç¬-
-usquid:S00116I"XRename this field "main_tab_play" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×œ¸öüÿÿÿÿ
-|squid:S00116I"_Rename this field "main_tab_corporation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×œ¸öüÿÿÿÿ
-usquid:UselessImportCheck-"ERemove this unused import 'cmccsi.mhealth.app.sports.bean.UrlEntity'.(¦Õ¯…øÿÿÿÿ8¿ë…Ç¬-
-bsquid:UselessImportCheck"2Remove this unused import 'android.view.KeyEvent'.(ôÊÃ–úÿÿÿÿ8ìÓÿÆ¬-
-[squid:S1155Ú">Use isEmpty() to check whether the collection is empty or not.(À¨¬¹şÿÿÿÿ
-Jsquid:S1068F"4Remove this unused "DELAY_EXIT_MILLS" private field.(¦çé
-@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck­""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ
-7squid:S1170F"!Make this final field static too.(¦çé
-hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(¨·éçùÿÿÿÿ
-csquid:S1301‘"KReplace this "switch" statement by "if" statements to increase readability.(³Éû‰
-\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8ìÓÿÆ¬-
-Osquid:S2589Û"7Remove this expression which always evaluates to "true"(®ğ²Õ
-rsquid:S00116F"[Rename this field "DELAY_EXIT_MILLS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦çé
-fsquid:UselessImportCheck";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8¿ë…Ç¬-
-csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ñ—ïÂ
-`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¿ë…Ç¬-
-Tsquid:S2589Ú"7Remove this expression which always evaluates to "true"(À¨¬¹şÿÿÿÿ
-\squid:UselessImportCheck#"1Remove this unused import 'com.google.gson.Gson'.(–§8¿ë…Ç¬-
-usquid:S1450J"YRemove the "settingimg" field and declare it as a local variable in the relevant methods.(Æüâ™ıÿÿÿÿ
-bsquid:S1301\"KReplace this "switch" statement by "if" statements to increase readability.(³Éû‰
-Gsquid:S1068Q"0Remove this unused "exitRunnable" private field.(¥À­ô
-Nsquid:S1659I"2Declare "main_tab_corporation" on a separate line.(×œ¸öüÿÿÿÿ
-gsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(ƒ»ÿÿÿÿÿ
-bsquid:UselessImportCheck"7Remove this unused import 'java.net.HttpURLConnection'.(¬¬˜­8¿ë…Ç¬-
-wsquid:S00116I"ZRename this field "main_tab_health" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×œ¸öüÿÿÿÿ
-hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(Œ×˜’øÿÿÿÿ
-csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(‡òÕş
-lsquid:UselessImportCheck"<Remove this unused import 'android.content.DialogInterface'.(Š­›¨şÿÿÿÿ8ìÓÿÆ¬-
-bsquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(ë­£7
-xsquid:S00116E"[Rename this field "WHAT_ENSURE_EXIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸áÔáüÿÿÿÿ
-csquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(ì¸Ë¦
-=squid:S1170E"!Make this final field static too.(¸áÔáüÿÿÿÿ
-ssquid:S00116M"VRename this field "iv_showGoal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿êá•ÿÿÿÿÿ
-squid:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îœÆ½ùÿÿÿÿ
-csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(º†¤±
-Isquid:S1068P"-Remove this unused "isExiting" private field.(­¾¤ûÿÿÿÿ
-ssquid:S00116L"VRename this field "tv_showGoal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸£Ë¸øÿÿÿÿ
-asquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8¿ë…Ç¬-
-Vsquid:S1155Û">Use isEmpty() to check whether the collection is empty or not.(®ğ²Õ
-Csquid:S1481W"'Remove this unused "bi" local variable.(è‰î©ÿÿÿÿÿ
-Gsquid:S1659I"+Declare "main_tab_play" on a separate line.(×œ¸öüÿÿÿÿ
-Ysquid:UselessImportCheck	")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8¿ë…Ç¬-
-˜squid:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ù©j
-psquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(ÀÿŞ•ûÿÿÿÿ
-gsquid:S1301X"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ

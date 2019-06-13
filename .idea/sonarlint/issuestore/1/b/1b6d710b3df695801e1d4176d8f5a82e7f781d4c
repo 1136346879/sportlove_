@@ -1,28 +1,0 @@
-
-Usquid:S1197Ô"8Move the array designator from the variable to the type.(È¤Ý”úÿÿÿÿ
-Nsquid:S1135"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
-fsquid:S3027o"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(Ï†Ãíÿÿÿÿÿ
-R
-squid:S899ü";Do something with the "boolean" value returned by "delete".(ˆ‚†¸
-fsquid:S3027o"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Ï†Ãíÿÿÿÿÿ
-@squid:S1148–"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-msquid:S1450/"VRemove the "mFileNa" field and declare it as a local variable in the relevant methods.(ì¾È°
-dsquid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(£ÌÂùþÿÿÿÿ
-isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ŸÇ Ë8Éº°ó«-
-asquid:S4042ü"IUse "java.nio.Files#delete" here for better messages on error conditions.(ˆ‚†¸
-@squid:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-msquid:S1450."VRemove the "mStrURL" field and declare it as a local variable in the relevant methods.(ÍÜ¢´
-gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(¨ìÓýûÿÿÿÿ
-]squid:S2259Ø"@A "NullPointerException" could be thrown; "is" is nullable here.(ÇÞÚ¨øÿÿÿÿ
-Ksquid:EmptyStatementUsageCheck["Remove this empty statement.(ôŸŽìúÿÿÿÿ
-isquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(’Œ²8¯Äîó«-
-b
-squid:S128B"LEnd this switch case with an unconditional break, return or throw statement.(‘›Ê¯
-Jsquid:S1481i",Remove this unused "tmprand" local variable.(ÎãÖ‘8¯Äîó«-
-Gsquid:S00108é")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
-X
-squid:S899Ì"BDo something with the "boolean" value returned by "createNewFile".(Î¥Àm
-U"squid:SwitchLastCaseIsDefaultCheckA""Add a default case to this switch.(ýÞ³‹ùÿÿÿÿ
-ksquid:S2095Ò"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÐÙÈ¬úÿÿÿÿ
-usquid:S14509"^Remove the "mThreadDownload" field and declare it as a local variable in the relevant methods.(ÎÿŸ
-Ksquid:S2387<"4"mHandler" is the name of a field in "BaseActivity".(¿´»

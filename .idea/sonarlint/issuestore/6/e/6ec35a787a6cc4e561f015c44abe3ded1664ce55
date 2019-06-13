@@ -1,59 +1,0 @@
-
-Gsquid:S1148º"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÇÀ­Ãÿ,
-jsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(åÅª´8ÇÀ­Ãÿ,
-Gsquid:S1148Ô"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÇÀ­Ãÿ,
-bsquid:HiddenFieldCheckö"8Rename "info" which hides the field declared at line 90.(ãŠŠä8ÇÀ­Ãÿ,
-[squid:S2589ƒ"7Remove this expression which always evaluates to "true"(ûäðùÿÿÿÿ8ÇÀ­Ãÿ,
-Ksquid:S3398Ù",Move this method into "InitAccountRunnable".(ûáà•8ÇÀ­Ãÿ,
-osquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(—ø¯ÿûÿÿÿÿ8ÇÀ­Ãÿ,
-Jsquid:S1481Š"+Remove this unused "resout" local variable.(‰›üÓ8ÇÀ­Ãÿ,
-csquid:S3398¢"?Move this method into the anonymous class declared at line 656.(í‰«Çùÿÿÿÿ8ÇÀ­Ãÿ,
-[squid:S2589Œ"7Remove this expression which always evaluates to "true"(”ý‹Õúÿÿÿÿ8ÇÀ­Ãÿ,
-qsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö§ó”8ÇÀ­Ãÿ,
-psquid:S1858…"L"mPhoneNum" is already a string, there's no need to call "toString()" on it.(—†þÝøÿÿÿÿ8ÇÀ­Ãÿ,
-\
-squid:S106§"9Replace this use of System.out or System.err by a logger.(ê™—àøÿÿÿÿ8ÇÀ­Ãÿ,
-gsquid:HiddenFieldCheckˆ"8Rename "info" which hides the field declared at line 90.(Û¦þÐøÿÿÿÿ8ÇÀ­Ãÿ,
-jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(Ä£»8ÇÀ­Ãÿ,
-¥squid:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾–ú²ùÿÿÿÿ8ÇÀ­Ãÿ,
-usquid:S1450Q"WRemove the "internet" field and declare it as a local variable in the relevant methods.(ŽþÐ®8ÇÀ­Ãÿ,
-jsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(„ïµû8ÇÀ­Ãÿ,
-~squid:S1488Ñ"_Immediately return this expression instead of assigning it to the temporary variable "version".(£ÈìÜ8ÇÀ­Ãÿ,
-isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(êåƒ»8ÇÀ­Ãÿ,
-osquid:S1858u"L"mPhoneNum" is already a string, there's no need to call "toString()" on it.(—†þÝøÿÿÿÿ8ÇÀ­Ãÿ,
-„squid:S1450D"fRemove the "mTextViewForgetPassword" field and declare it as a local variable in the relevant methods.(èÓÓ8ÇÀ­Ãÿ,
-Ysquid:S1161¥":Add the "@Override" annotation above this method signature(“–ýþ8ÇÀ­Ãÿ,
-ƒsquid:S1450X"`Remove the "mTextViewRegister" field and declare it as a local variable in the relevant methods.(ÊåÍüýÿÿÿÿ8ÇÀ­Ãÿ,
-psquid:S1858Ž"L"mPhoneNum" is already a string, there's no need to call "toString()" on it.(—†þÝøÿÿÿÿ8ÇÀ­Ãÿ,
-Nsquid:S00108")Either remove or fill this block of code.(®õÇ²ùÿÿÿÿ8ÇÀ­Ãÿ,
-Ssquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸŽìúÿÿÿÿ8ÇÀ­Ãÿ,
-Vsquid:S2589­"7Remove this expression which always evaluates to "true"(“ÎÑ«8ÇÀ­Ãÿ,
-gsquid:HiddenFieldCheckÐ"8Rename "info" which hides the field declared at line 90.(Û‚†°ûÿÿÿÿ8ÇÀ­Ãÿ,
-j
-squid:S128”"LEnd this switch case with an unconditional break, return or throw statement.(Ôå¤8ÇÀ­Ãÿ,
-osquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(ýÂòùÿÿÿÿ8ÇÀ­Ãÿ,
-¥squid:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ8ÇÀ­Ãÿ,
-isquid:S1858õ"J"userUid" is already a string, there's no need to call "toString()" on it.(µìÁ§8ÇÀ­Ãÿ,
-gsquid:HiddenFieldCheckÇ"8Rename "info" which hides the field declared at line 90.(Û¦þÐøÿÿÿÿ8ÇÀ­Ãÿ,
-vsquid:S1450Z"SRemove the "info" field and declare it as a local variable in the relevant methods.(…çÇ¡ÿÿÿÿÿ8ÇÀ­Ãÿ,
-Isquid:S1659@"+Declare "mEditPassword" on a separate line.(Œ§Ì°8ÇÀ­Ãÿ,
-msquid:S1858õ"N"mOldUserUid" is already a string, there's no need to call "toString()" on it.(µìÁ§8ÇÀ­Ãÿ,
-qsquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¬˜¼8ÇÀ­Ãÿ,
-nsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Ïðóºÿÿÿÿÿ8ÇÀ­Ãÿ,
-osquid:S1301“"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ8ÇÀ­Ãÿ,
-gsquid:HiddenFieldCheck¢"8Rename "info" which hides the field declared at line 90.(Û¦þÐøÿÿÿÿ8ÇÀ­Ãÿ,
-osquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(ñ†î¬øÿÿÿÿ8ÇÀ­Ãÿ,
-€squid:S1450?"]Remove the "mTextViewTitle" field and declare it as a local variable in the relevant methods.(Í¼ç•þÿÿÿÿ8ÇÀ­Ãÿ,
-Vsquid:S1135Å"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8ÇÀ­Ãÿ,
- squid:S1186ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê8ÇÀ­Ãÿ,
-Ssquid:EmptyStatementUsageCheck¼"Remove this empty statement.(ôŸŽìúÿÿÿÿ8ÇÀ­Ãÿ,
-X"squid:SwitchLastCaseIsDefaultCheckÑ""Add a default case to this switch.(ŽºÖ8ÇÀ­Ãÿ,
-osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÇÀ­Ãÿ,
-ksquid:S1858‡"L"mPassword" is already a string, there's no need to call "toString()" on it.(Šú³ 8ÇÀ­Ãÿ,
-Xsquid:S2387"4"mHandler" is the name of a field in "BaseActivity".(Ìúµýÿÿÿÿ8ÇÀ­Ãÿ,
-Isquid:S00108Å")Either remove or fill this block of code.(å¥ž‡8ÇÀ­Ãÿ,
-vsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üü›¸ýÿÿÿÿ8ÇÀ­Ãÿ,
-osquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(Ù“­Ûûÿÿÿÿ8ÇÀ­Ãÿ,
-qsquid:S3008;"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½™ òûÿÿÿÿ8ÇÀ­Ãÿ,
-\
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(ÔÏ‚™ùÿÿÿÿ8ÇÀ­Ãÿ,

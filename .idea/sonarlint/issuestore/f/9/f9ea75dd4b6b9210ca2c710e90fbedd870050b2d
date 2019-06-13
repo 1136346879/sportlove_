@@ -1,13 +1,0 @@
-
-ssquid:S1450"WRemove the "mSetting" field and declare it as a local variable in the relevant methods.(öâ¦üÿÿÿÿ
-Msquid:S2696"6Make the enclosing method "static" or remove this set.(©Á¹Ó
-vsquid:S1450"ZRemove the "mResumePush" field and declare it as a local variable in the relevant methods.(Æ…ûéÿÿÿÿÿ
-lsquid:S1450"VRemove the "mGetRid" field and declare it as a local variable in the relevant methods.(ö4
-Msquid:S2696x"6Make the enclosing method "static" or remove this set.(˜şÅó
-ksquid:S1450"TRemove the "mInit" field and declare it as a local variable in the relevant methods.(§şÏÎ
-†"squid:ClassVariableVisibilityCheck "XMake isForeground a static final constant or non-public and provide accessors if needed.(ß—Ûá
-Bsquid:S00108©")Either remove or fill this block of code.(”ı¾
-U"squid:SwitchLastCaseIsDefaultCheckW""Add a default case to this switch.(×“¾ñùÿÿÿÿ
-osquid:S1450"XRemove the "mStopPush" field and declare it as a local variable in the relevant methods.(œ¶í
-Esquid:S3398®"(Move this method into "MessageReceiver".(û©’üÿÿÿÿ
-Isquid:S1444 "2Make this "public static isForeground" field final(ß—Ûá

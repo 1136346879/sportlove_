@@ -1,129 +1,0 @@
-
-hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ŠÇåÉşÿÿÿÿ
-hsquid:S00116g"PRename this field "tv_HR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÒ€¦
-bsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(äâ¶
-hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(¿ªäšıÿÿÿÿ
-csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(‡®˜«
-Osquid:S1135·"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(¸èá¡úÿÿÿÿ
-;squid:S1659g"$Declare "tv_HRV" on a separate line.(µÒ€¦
-Esquid:S1185î"(Remove this method to simply inherit it.(º£”úÿÿÿÿ
-Osquid:S1135½"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-nsquid:S00116s"QRename this field "MAX_HR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÑÛÈşÿÿÿÿ
-Csquid:S1075‹"&Remove this hard-coded path-delimiter.(ìÍâøÿÿÿÿ
-hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ÙüÆ˜ùÿÿÿÿ
-csquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(•¿¯†
-Psquid:S2589£"8Remove this expression which always evaluates to "false"(ÚÊôÌ
-hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(äÈ£Şıÿÿÿÿ
-Jsquid:S1135œ"2Complete the task associated to this TODO comment.(…ïœ†
-Xsquid:S2387o"<"mImageButtonBack" is the name of a field in "BaseFragment".(ÄÉó¦ıÿÿÿÿ
-msquid:S00116“"ORename this field "Rnum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø÷´ëúÿÿÿÿ
-Rsquid:S1161Š":Add the "@Override" annotation above this method signature(“–ış
-csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(¢™¯¨
-csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(‡®˜«
-Osquid:S1135É"2Complete the task associated to this TODO comment.(€áêÊùÿÿÿÿ
->squid:S1075¾"&Remove this hard-coded path-delimiter.(Îä¥¹
-qsquid:S00116y"TRename this field "ecg_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üœÁûÿÿÿÿ
-xsquid:S1450ÿ"[Remove the "mHRbadresult" field and declare it as a local variable in the relevant methods.(éáÕ´ûÿÿÿÿ
-ysquid:S1450m"]Remove the "mTextViewTitle" field and declare it as a local variable in the relevant methods.(‡€Ùÿÿÿÿÿ
-hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(Í¹íıøÿÿÿÿ
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷üÂİ
-Bsquid:S1659g"+Declare "tv_RR_length2" on a separate line.(µÒ€¦
-rsquid:S1450w"VRemove the "mGraph1" field and declare it as a local variable in the relevant methods.(ˆ÷Æîûÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶èçz
-Esquid:S1185ô"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ
-@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-psquid:S00116Ÿ"WRename this field "mProgress_rr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿øç
-Osquid:S1135Ã"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Vsquid:S2387m":"mTextViewTitle" is the name of a field in "BaseFragment".(‡€Ùÿÿÿÿÿ
-ysquid:S1450Û"aRemove the "mCenterRollingBall" field and declare it as a local variable in the relevant methods.(èƒ¯
-`squid:S2095’"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÎÉ›
-csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(êó÷”
-Osquid:S1135Ñ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Tsquid:S2589Š"7Remove this expression which always evaluates to "true"(èÅäÿûÿÿÿÿ
-}squid:S00116"_Rename this field "mProgress_heartlevel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ƒÇöùÿÿÿÿ
-}squid:S1450"`Remove the "mHRProgressResult" field and declare it as a local variable in the relevant methods.(ùĞ†éÿÿÿÿÿ
-csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(›“ï¿
-Lsquid:S2387n"5"mActivity" is the name of a field in "BaseFragment".(œô…æ
-osquid:S00116g"WRename this field "tv_RR_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÒ€¦
-hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(§ãò¥ùÿÿÿÿ
-osquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î„šÏúÿÿÿÿ
-hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(­ì’Ùÿÿÿÿÿ
-hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(¾–—…øÿÿÿÿ
-qsquid:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö˜èÁ
-Osquid:S1135È"2Complete the task associated to this TODO comment.(®Ï›”şÿÿÿÿ
-csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(¯ËËä
-rsquid:S00116g"ZRename this field "tv_TraningZone2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÒ€¦
-usquid:S00116r"XRename this field "big_animation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íĞ÷úÿÿÿÿ
-jsquid:S00116’"QRename this field "AFcode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿İ‹Ş
-psquid:S00116g"XRename this field "tv_RR_length2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÒ€¦
-rsquid:S00116¡"YRename this field "_l_b_fail_scan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒî¯û
-hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(»™Ùçşÿÿÿÿ
-isquid:S2095“"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ä®ÍØûÿÿÿÿ
-csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(‚Ÿ‘Í
-Osquid:S1135€	"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
-Wsquid:S3398…	"?Move this method into the anonymous class declared at line 178.(¤“Á
-qsquid:S00116g"YRename this field "tv_TraningZone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÒ€¦
-ksquid:S00116Œ"RRename this field "ECGdata" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µô˜÷
-Q"squid:SwitchLastCaseIsDefaultCheckı""Add a default case to this switch.(°Ó÷
-csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(à¤œ×
-hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(ÍËÑ°şÿÿÿÿ
-hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(œ¢ŸÌúÿÿÿÿ
-Bsquid:S1172ß"*Remove this unused method parameter "max".(ÚÊıÕ
-@squid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck™""Add a default case to this switch.(ıŞ³‹ùÿÿÿÿ
-Lsquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ
-@squid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-Csquid:S1075‹"&Remove this hard-coded path-delimiter.(ìÍâøÿÿÿÿ
-Asquid:S1659g"*Declare "tv_RR_length" on a separate line.(µÒ€¦
-ssquid:S1450Ÿ"[Remove the "mProgress_rr" field and declare it as a local variable in the relevant methods.(¿øç
-Csquid:S1659g",Declare "tv_TraningZone" on a separate line.(µÒ€¦
-nsquid:S1450—"VRemove the "mTimer2" field and declare it as a local variable in the relevant methods.(ü¹
-~squid:S1845‘"fRename field "ecgData" to prevent any misunderstanding/clash with field "ECGdata" defined on line 140.(ìù·Â
-hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(™¤¿…ùÿÿÿÿ
-usquid:S00116‰"\Rename this field "REQUEST_ENABLE_BT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘›ğñ
-nsquid:S00116t"QRename this field "MIN_HR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚äëüøÿÿÿÿ
-hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(õ»Ò©şÿÿÿÿ
-{squid:S1149v"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(“Ï¡ûÿÿÿÿ
-hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ŠÊ’šúÿÿÿÿ
-hsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(¡êÁ‚ÿÿÿÿÿ
-bsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¡•J
-ksquid:S2095Ó"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(²İŠµùÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­·áG
-usquid:S00116ˆ"WRename this field "PowerPercent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‹Ìÿÿÿÿÿ
-Dsquid:S1659g"-Declare "tv_TraningZone2" on a separate line.(µÒ€¦
-csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(éŠŸÔ
-Osquid:S1135»"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
-ysquid:S1450Š"\Remove the "deviceAddress" field and declare it as a local variable in the relevant methods.(·â¼¶ÿÿÿÿÿ
-hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(¿å™úÿÿÿÿ
-isquid:S00116g"QRename this field "tv_HRV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÒ€¦
-csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(£—İø
-ksquid:S00116ù"RRename this field "FinalHR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çäœé
-jsquid:ModifiersOrderChecke"EReorder the modifiers to comply with the Java Language Specification.(½ãÈÈ
-qsquid:S00116|"TRename this field "ECGlength" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¶Ñ«úÿÿÿÿ
-isquid:HiddenFieldCheckæ"ARename "PowerPercent" which hides the field declared at line 136.(´èïùÿÿÿÿ
-]squid:S2259˜"@A "NullPointerException" could be thrown; "br" is nullable here.(Öäãˆıÿÿÿÿ
-bsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(­õ©Ò
-csquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(àšÈç
-Ssquid:S2696—"6Make the enclosing method "static" or remove this set.(óŞ–İıÿÿÿÿ
-{squid:S1450o"_Remove the "mImageButtonBack" field and declare it as a local variable in the relevant methods.(ÄÉó¦ıÿÿÿÿ
-csquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(É•‡ñ
-Lsquid:EmptyStatementUsageCheckõ"Remove this empty statement.(ôŸìúÿÿÿÿ
-hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(ë¹™úÿÿÿÿ
-€squid:S1450"cRemove the "mProgress_heartlevel" field and declare it as a local variable in the relevant methods.(—ƒÇöùÿÿÿÿ
-Lsquid:S2387—"4"mHandler" is the name of a field in "BaseFragment".(¿´»
-Osquid:S1135®"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-csquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(‡®˜«
-hsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(Á²¾Ëúÿÿÿÿ
-Osquid:S1135	"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
-lsquid:S1450i"URemove the "btnAdd" field and declare it as a local variable in the relevant methods.(ª´ªÓ
-csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(óœâÈ
-Osquid:S1135œ	"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
-csquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(ì‹´É
-Osquid:S1135ó"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è¦ÿªúÿÿÿÿ
-Wsquid:UnusedPrivateMethodÒ"1Remove this unused private "showProgress" method.(Ö´åà
-hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(š¬«ªûÿÿÿÿ
-hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(öÎ§âùÿÿÿÿ
-osquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´èïùÿÿÿÿ
-lsquid:S00116q"TRename this field "img_heart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğõäû

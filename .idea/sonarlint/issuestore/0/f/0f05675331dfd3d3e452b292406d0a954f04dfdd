@@ -1,32 +1,0 @@
-
-hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ÓÃ¾Ìşÿÿÿÿ
-Gsquid:S1659;"+Declare "main_tab_play" on a separate line.(×œ¸öüÿÿÿÿ
-csquid:S1301‡"KReplace this "switch" statement by "if" statements to increase readability.(³Éû‰
-gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ƒ»ÿÿÿÿÿ
-csquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(‡òÕş
-Nsquid:S1659;"2Declare "main_tab_corporation" on a separate line.(×œ¸öüÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(øö¸ô
-gsquid:S1301H"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
-rsquid:S001168"[Rename this field "DELAY_EXIT_MILLS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦çé
-|squid:S00116;"_Rename this field "main_tab_corporation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×œ¸öüÿÿÿÿ
-wsquid:S00116;"ZRename this field "main_tab_health" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×œ¸öüÿÿÿÿ
-ssquid:S00116?"VRename this field "iv_showGoal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿êá•ÿÿÿÿÿ
-bsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(‡òÕş
-7squid:S11708"!Make this final field static too.(¦çé
-@squid:S1148î"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Şš™Èúÿÿÿÿ
-ssquid:S00116>"VRename this field "tv_showGoal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸£Ë¸øÿÿÿÿ
-˜squid:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ù©j
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğÕöÕøÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckˆ""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ
-=squid:S11707"!Make this final field static too.(¸áÔáüÿÿÿÿ
-hsquid:S1301ˆ"KReplace this "switch" statement by "if" statements to increase readability.(Ò“ÿšùÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º†¤±
-bsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(ë­£7
-squid:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îœÆ½ùÿÿÿÿ
-bsquid:S1301K"KReplace this "switch" statement by "if" statements to increase readability.(³Éû‰
-xsquid:S001167"[Rename this field "WHAT_ENSURE_EXIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸áÔáüÿÿÿÿ
-usquid:S1450<"YRemove the "settingimg" field and declare it as a local variable in the relevant methods.(Æüâ™ıÿÿÿÿ
-csquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(ì¸Ë¦
-usquid:S00116;"XRename this field "main_tab_play" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×œ¸öüÿÿÿÿ
-hsquid:UselessImportCheck "DRemove this unused import 'cmccsi.mhealth.app.sports.common.Logger'.(‰™Ì¡
