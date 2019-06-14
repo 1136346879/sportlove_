@@ -1,0 +1,74 @@
+
+Gsquid:S1185à"(Remove this method to simply inherit it.(Ù«µ§8Ù½–Ÿµ-
+…squid:S1450Ã"aRemove the "indicatorViewGroup" field and declare it as a local variable in the relevant methods.(´§çþúÿÿÿÿ8Ù½–Ÿµ-
+\
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(ÿÞÇÃûÿÿÿÿ8Ù½–Ÿµ-
+zsquid:CallToDeprecatedMethodÝ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»êˆ8Ù½–Ÿµ-
+jsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(¢æœ°8Ù½–Ÿµ-
+hsquid:UselessImportCheck8"DRemove this unused import 'cmccsi.mhealth.app.sports.common.Logger'.(‰™Ì¡
+tsquid:CallToDeprecatedMethod–"?Remove this use of "setOnPageChangeListener"; it is deprecated.(±…Ç°ùÿÿÿÿ8Ù½–Ÿµ-
+\
+squid:S106ð"9Replace this use of System.out or System.err by a logger.(Â«¥Ïþÿÿÿÿ8Ù½–Ÿµ-
+{squid:S1450Á"\Remove the "mainViewGroup" field and declare it as a local variable in the relevant methods.(Ý‚üÈ8Ù½–Ÿµ-
+jsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ƒ—É„8Ù½–Ÿµ-
+Ksquid:EmptyStatementUsageCheckm"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Bsquid:S00108Š")Either remove or fill this block of code.(å¥ž‡
+Bsquid:S00108Œ")Either remove or fill this block of code.(à®¿­
+usquid:UselessImportCheck;"QRemove this unused import 'cmccsi.mhealth.app.sports.db.MHealthProviderMetaData'.(üë†á
+Bsquid:S00108")Either remove or fill this block of code.(ï­£Ä
+Vsquid:S1135Ë"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+qsquid:MaximumInheritanceDepthE"<This class has 7 parents which is greater than 5 authorized.(°ª¹ˆùÿÿÿÿ8 Ÿµ-
+Vsquid:S1135«"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+Vsquid:S1135Þ"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+Vsquid:S1135¥"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+jsquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¬˜¼
+Vsquid:S1135Ø"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+U
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(¡†ºùûÿÿÿÿ
+osquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ðÓ¥Ôøÿÿÿÿ8Ù½–Ÿµ-
+Lsquid:S1185¾"(Remove this method to simply inherit it.(ëŒ³©øÿÿÿÿ8Ù½–Ÿµ-
+vsquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üü›¸ýÿÿÿÿ8Ù½–Ÿµ-
+Vsquid:S2589À"7Remove this expression which always evaluates to "true"(“ÎÑ«8Ù½–Ÿµ-
+jsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(›³àî8Ù½–Ÿµ-
+osquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(êêÃÈùÿÿÿÿ8Ù½–Ÿµ-
+bsquid:S3398¶">Move this method into the anonymous class declared at line 77.(í‰«Çùÿÿÿÿ8Ù½–Ÿµ-
+}squid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿþ²ãúÿÿÿÿ8Ù½–Ÿµ-
+Vsquid:S1135Ò"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+bsquid:S3398„">Move this method into the anonymous class declared at line 77.(Éôú›üÿÿÿÿ8Ù½–Ÿµ-
+\
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(ÔÏ‚™ùÿÿÿÿ8Ù½–Ÿµ-
+~squid:S1488±"_Immediately return this expression instead of assigning it to the temporary variable "version".(£ÈìÜ8Ù½–Ÿµ-
+}squid:S1450¾"YRemove the "mImageView" field and declare it as a local variable in the relevant methods.(Åí¸•ùÿÿÿÿ8Ù½–Ÿµ-
+zsquid:CallToDeprecatedMethodÄ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ºòá´8Ù½–Ÿµ-
+Osquid:S1068º"0Remove this unused "bNewInsatall" private field.(†¦¹Ê8Ù½–Ÿµ-
+osquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(’ÚÐ£ûÿÿÿÿ8Ù½–Ÿµ-
+Vsquid:S1135™"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+Wsquid:S2387M"4"mHandler" is the name of a field in "BaseActivity".(Ìúµýÿÿÿÿ8 Ÿµ-
+ssquid:UselessImportCheck@"JRemove this unused import 'cmccsi.mhealth.app.sports.service.StepService'.(í¹š½ùÿÿÿÿ
+…squid:S1488¤"aImmediately return this expression instead of assigning it to the temporary variable "strtodate".(Û¥š«ùÿÿÿÿ8Ù½–Ÿµ-
+vsquid:S1149}"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+jsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(¢æœ°8Ù½–Ÿµ-
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(…Çˆþÿÿÿÿ
+Csquid:S1068G"'Remove this unused "TAG" private field.(ÉÌöÇýÿÿÿÿ
+}squid:S1450»"YRemove the "mViewPager" field and declare it as a local variable in the relevant methods.(Õîµýúÿÿÿÿ8Ù½–Ÿµ-
+|squid:S1450Å"XRemove the "mInflater" field and declare it as a local variable in the relevant methods.(ÉÁ’ïúÿÿÿÿ8Ù½–Ÿµ-
+€squid:S1450Æ"\Remove the "mLayoutBasic5" field and declare it as a local variable in the relevant methods.(óòƒûÿÿÿÿ8Ù½–Ÿµ-
+gsquid:S1301P"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+jsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(ìŽÐ8Ù½–Ÿµ-
+Vsquid:S1135Ê"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+squid:CallToDeprecatedMethodÊ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ÿàþþÿÿÿÿ8Ù½–Ÿµ-
+zsquid:CallToDeprecatedMethodä"JDon't override a deprecated method or explicitly mark it as "@Deprecated".( ùÄ÷8Ù½–Ÿµ-
+jsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(Ðà¾–8Ù½–Ÿµ-
+osquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(—ø¯ÿûÿÿÿÿ8Ù½–Ÿµ-
+ksquid:UselessImportCheck7"GRemove this unused import 'cmccsi.mhealth.app.sports.common.Constants'.(àÓ²û
+Vsquid:S1135Å"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+squid:S1488˜"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë8Ù½–Ÿµ-
+\
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ÜÒìÁÿÿÿÿÿ8Ù½–Ÿµ-
+]squid:S2147"ECombine this catch with the one at line 140, which has the same body.(ï­£Ä
+Vsquid:S1135å"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+vsquid:S1149}"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Vsquid:S1135¿"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ù½–Ÿµ-
+Gsquid:S1148´"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ù½–Ÿµ-
+qsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö§ó”8Ù½–Ÿµ-
+osquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ð˜ûˆøÿÿÿÿ8Ù½–Ÿµ-

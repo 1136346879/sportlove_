@@ -1,110 +1,327 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fcf13727-7453-46ce-9070-357fad588053" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_achartengine_1_1_0_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_activation_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_additionnal_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_android_support_v4_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_baidumapapi_v3_5_0_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_commons_codec_1_8_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_commons_lang_2_2_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_fastjson_1_1_33_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_gson_2_2_3_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_httpclient_4_1_3_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_httpcore_4_1_4_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_iShang_lib_ecg_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_libTGEKG_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_libTGbleManager_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_libammsdk_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_libdingdangota_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_locSDK_6_05_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_mail_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_xUtils_2_6_14_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_xcl_charts_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JPushExample(1317438)/JPushExample(1317438).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-mdpi/loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-xhdpi/loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/drawable/loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_JPushExample_1317438__libs_jcore_android_2_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_JPushExample_1317438__libs_jpush_android_3_3_0_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_achartengine_1_1_0_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_activation_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_additionnal_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_android_support_v4_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_baidumapapi_v3_5_0_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_commons_codec_1_8_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_commons_lang_2_2_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_fastjson_1_1_33_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_gson_2_2_3_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_httpclient_4_1_3_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_httpcore_4_1_4_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_iShang_lib_ecg_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_libTGEKG_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_libTGbleManager_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_libammsdk_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_libdingdangota_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_locSDK_6_05_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_mail_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_xUtils_2_6_14_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_xcl_charts_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a0137dc5e99489ff90effe63a788d3c25b66b3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0712df971a99ac4d2fccb8e0fb19f377f3374cca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08aa3b207703ad06e7dd0f0b8745f92a04bffa7a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/094611ea906a217e8501ae1f9fa7e436cf8fb94b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f05675331dfd3d3e452b292406d0a954f04dfdd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17cbdb4db1263196ffb1948cb14cc72183579351" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b6d710b3df695801e1d4176d8f5a82e7f781d4c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a3608da033ddaba9df0f061c798c90249d68fa8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2caa899da1875bf75046b607fab2b7974e86d6c3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f90a3c57cacdafd7624aabb9dd232819f52b3fd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31eb0f38abd76f6a9138409457307ff65c69cf17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33b46b38d27ebc07ff33f8345405cc876c29e759" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ecc4d406c278e9e341ef2611ab309e5306b5449" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/407b5086c4577da79aaec7a654ae899b0c134269" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4204511d2b877a614995143eb36911ef5604efe3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/458899a9398012c3a11ebea45e99bf8f08d7eb3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5711cd82a2e9d332e955ba41772c2aab60651222" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/656fab5ae4e7071404a0dc99e5bbc4c0ef32cd53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c350275f40f8015a5a6062a9448241f7eb924fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c3be4e7205887840be7346a4a70b7d56b6401a5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ec35a787a6cc4e561f015c44abe3ded1664ce55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/706f73413c92b5c5a1bd1cb24df82383737f1555" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75cff21b7360156f57ee4fe83edc2df9798552fb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/793a89e7a65690669d065c36c874b11ab857ae88" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c5751c03a856fc2bbbbbb687613ab850509fdc5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d498c5290bf0ffd8b41c36fd322728f1f30a71f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0419dae0c281364b44be2995c49f30814f38330" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1b729a7ceee4cb330f51f7306d3a9336894eff4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a369bf476007e77e5d4f06e3e6da303d89651b05" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b00866d0b89d37f0d5652c8beedcca61ad0e11d1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5ec7d691cb3040fe4a162cd5e7e06f72851a0e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1344757500f5d791270af5bef19b5b1fa18059a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb938f7413306ba1797a7ed0cf0e88e494e632d1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc1c6f4993e684a664d0862f8656a14b17b6678a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d19714d8d5b8fff57293deeaea1b6b3121d87006" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3bf4f3a1e4d0288dafe83160ce717d905f21004" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7bbf3013a0e252a73b3eef13064eb1acf4e5bba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d90c4f2826830b05689d49136bc4c1133061b711" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfba7aade0868074c2861c98e2a9a92f3178a51b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e198fd751f06ad51d50738e3f99a921192216580" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e85d825044fc05ed2a8f93aa6fecee1f33de94ea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0a5c0888f9d850a1c729d8ea5c4a976e4a842bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f33859a15d041badea546e60ee53b065fd03b974" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9ea75dd4b6b9210ca2c710e90fbedd870050b2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc4988d82fcdecb182683523dade6d8a34db660d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc4b712bd091ac77e8dfb010a7c568a8075038e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_sport___libs_android_support_v4_jar_unspecified_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPushExample(1317438)/JPushExample(1317438).iml" beforeDir="false" afterPath="$PROJECT_DIR$/JPushExample(1317438)/JPushExample(1317438).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/r/debug/cmccsi/mhealth/app/sports/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/cmccsi/mhealth/app/sports/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/anim.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/anim.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$array.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignContentActivity_new.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignViewFragment_new$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignViewFragment_new$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignViewFragment_new$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignViewFragment_new$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignViewFragment_new.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/CampaignViewFragment_new.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareDownloadProgressActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareDownloadProgressActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareDownloadProgressActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareDownloadProgressActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareUpdateProgressActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareUpdateProgressActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareUpdateProgressActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareUpdateProgressActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareUpdateProgressActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FirmwareUpdateProgressActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FragmentContainerActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/FragmentContainerActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRVActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRVActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRVActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRVActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRVActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HRVActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HandAddContactActivity$AddPhoneNumbersTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HandAddContactActivity$AddPhoneNumbersTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HandAddContactActivity$CheckPhoneNumbersTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HandAddContactActivity$CheckPhoneNumbersTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HandAddContactActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/HandAddContactActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapListGPSFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapListGPSFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapListGPSFragment$DownLoadData.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapListGPSFragment$DownLoadData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapListGPSFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapListGPSFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapSelectTRunType$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapSelectTRunType$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapSelectTRunType$MapTypeAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapSelectTRunType$MapTypeAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapSelectTRunType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapSelectTRunType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapStartRunningFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapViewOrbitFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapViewOrbitFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapViewOrbitFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapViewOrbitFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapViewOrbitFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MapViewOrbitFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MatchContactActivity$AddFriendsByPhonenumbersTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MatchContactActivity$AddFriendsByPhonenumbersTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MatchContactActivity$CheckPhoneNumbersTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MatchContactActivity$CheckPhoneNumbersTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MatchContactActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MatchContactActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MoodActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MoodActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MoodActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MoodActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MoodActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MoodActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionListActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionListActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionListActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionListActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionNewActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionNewActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionNewActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionNewActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionViewActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/OpinionViewActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadActivity$7$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadActivity$7$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadActivity$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadActivity$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadResetPwdActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadResetPwdActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadResetPwdActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/PreLoadResetPwdActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/RankingActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/RankingActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/RankingActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/RankingActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/RankingActivity$GetPedoRankListInfoTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/RankingActivity$GetPedoRankListInfoTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/RankingActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/RankingActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingAboutActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingAboutActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingAboutActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingAboutActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingArea$MyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingArea$MyAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetStepActivity$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetStepActivity$3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetStepActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetStepActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetStepActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetStepActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetWeightActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetWeightActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetWeightActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetWeightActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetWeightActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/SettingTargetWeightActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/WebViewActivity$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/WebViewActivity$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/WebViewActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/WebViewActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/WebViewActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/WebViewActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/avatar/CropImageActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/avatar/CropImageActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/avatar/CropImageActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/avatar/CropImageActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/avatar/HighlightView.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/avatar/HighlightView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/ActivityRankListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/ActivityRankListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/CampaignListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/CampaignListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/CampaignRankListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/CampaignRankListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/CommonAutoCompleteAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/CommonAutoCompleteAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/ContactAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/ContactAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/GPSXListViewAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/GPSXListViewAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/MessageAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/MessageAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/OpinionListAdapter$HoldView.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/OpinionListAdapter$HoldView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/OpinionListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/OpinionListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/RaceDetailAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/RaceDetailAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/RaceInvitedAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/RaceInvitedAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/RankingListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/adapter/RankingListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/AddDeviceActivity$AddDeviceTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/AddDeviceActivity$AddDeviceTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/AddDeviceActivity$DownLoadDeviceTypeTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/AddDeviceActivity$DownLoadDeviceTypeTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/AddDeviceActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/AddDeviceActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/HistorySportActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/HistorySportActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/HistorySportActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/HistorySportActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/HistorySportActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/HistorySportActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/HistorySportActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/HistorySportActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/RegisteActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/RegisteActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/RegisteActivity$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/RegisteActivity$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/RegisteActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/RegisteActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/appversion/SettingFragmentApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/BaseActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/BaseActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/BaseActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/BaseActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/BaseFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/BaseFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/MapApplication$SDKReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/MapApplication$SDKReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/SampleActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/SampleActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/SampleActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/SampleActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/SampleFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/SampleFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/SendMsgBroadCast.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/basic/SendMsgBroadCast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/bean/GoalInfo$GoalType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/bean/GoalInfo$GoalType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/bean/GoalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/bean/GoalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/bean/RunType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/bean/RunType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/AlertDialogs.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/AlertDialogs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/CatchUserDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/CatchUserDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/CatchUserDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/CatchUserDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/ConstantsBitmaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/ConstantsBitmaps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/ImageUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/ImageUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/MenuDialog$GridAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/MenuDialog$GridAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/MenuDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/MenuDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/UploadUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/UploadUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/utils/ChartEngineUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/common/utils/ChartEngineUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/device/DeviceManagerService$UplaodBindedDeviceTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/device/DeviceManagerService$UplaodBindedDeviceTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/device/MobileDevice$StepServiceUploadReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/device/MobileDevice$StepServiceUploadReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/BraceletSettingActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/BraceletSettingActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity$DeleteDeviceTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity$DeleteDeviceTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity$StepServiceUploadReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity$StepServiceUploadReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity$UplaodBindedDeviceTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity$UplaodBindedDeviceTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivityTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivityTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivityTest$DeleteDeviceTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivityTest$DeleteDeviceTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/DeviceSettingActivityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/ECGDetailChartActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/ECGDetailChartActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/HistoryECGDetailActivity$DownloadEcgTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/HistoryECGDetailActivity$DownloadEcgTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/HistoryECGDetailActivity$OnRadioItemClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/HistoryECGDetailActivity$OnRadioItemClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/HistoryECGDetailActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/activity/HistoryECGDetailActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/adapter/DeviceListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/adapter/DeviceListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/fragment/ECGChartFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/ecg/fragment/ECGChartFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/net/SimpleNet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/net/SimpleNet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/net/SimplePost.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/net/SimplePost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivity$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivityTest$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivityTest$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivityTest$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivityTest$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/PedometerActivityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/SharePagerActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/SharePagerActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/SharePagerActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/SharePagerActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/ShareWeiXin.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/pedo/ShareWeiXin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/StepService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/StepService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/StepService$StopPhoneStepReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/StepService$StopPhoneStepReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/StepService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/StepService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/UpdateVersionService$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/UpdateVersionService$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/UpdateVersionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/service/UpdateVersionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/CampaignFragment_new$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/CampaignFragment_new$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/CampaignFragment_new$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/CampaignFragment_new$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/CampaignFragment_new.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/CampaignFragment_new.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/CampaignRankFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/CampaignRankFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragment$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragment$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragmentTest$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragmentTest$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragmentTest$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragmentTest$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragmentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/ECGFragmentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/FriendFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/FriendFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/FriendFragment$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/FriendFragment$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/FriendFragment$MySimpleAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/FriendFragment$MySimpleAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/FriendFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/FriendFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/GoalFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/GoalFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/GoalFragment$AchievementTypeAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/GoalFragment$AchievementTypeAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/GoalFragment$UploadGoalTypeTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/GoalFragment$UploadGoalTypeTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/GoalFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/GoalFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/HistoryListFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/HistoryListFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/HistoryListFragment$MySimpleAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/HistoryListFragment$MySimpleAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/HistoryListFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/HistoryListFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MainGridFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MainGridFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MainGridFragment2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MainGridFragment2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MapFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MapFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MessageFragment$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MessageFragment$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MessageFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/MessageFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/RankAreaMenuFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/RankAreaMenuFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/RankCompanyMenuFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/RankCompanyMenuFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/RankinglistFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/RankinglistFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/SettingFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/TabBaseFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/TabBaseFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/WebViewFragment$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/WebViewFragment$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/WebViewFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/tabhost/WebViewFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CommonAskDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CommonAskDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CustomDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CustomDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CustomDialogOK.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CustomDialogOK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CustomListDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CustomListDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CustomProgressDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/CustomProgressDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/DownFlashView.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/DownFlashView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/EditTextWithDel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/EditTextWithDel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/PopMenu$PopAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/PopMenu$PopAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/PopMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/PopMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/ScoreBarView.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/ScoreBarView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/WiperSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/WiperSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/XListView.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/XListView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/XListViewFooter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/XListViewFooter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/XListViewHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/view/XListViewHeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/DatePicker.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/DatePicker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/NumberPicker$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/NumberPicker$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/NumberPicker$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/NumberPicker$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/NumberPicker.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/NumberPicker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/TimePicker.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/ai/android/picker/TimePicker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/cmcc/bracelet/lsjx/libs/DingdangSettingActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/cmcc/bracelet/lsjx/libs/DingdangSettingActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/jniLibs/debug/android-support-v4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/achartengine-1.1.0_9fc52759aaa2a139c931813c53f864d002c5e863.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/achartengine-1.1.0_9fc52759aaa2a139c931813c53f864d002c5e863.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/activation_c69d6a8128922e57a808426a1d3d6773b22bf3ab.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/activation_c69d6a8128922e57a808426a1d3d6773b22bf3ab.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/additionnal_86d0860a1a326e13ef013f0f390fd9d5c9ee79f3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/additionnal_86d0860a1a326e13ef013f0f390fd9d5c9ee79f3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-support-v4_790fc7e8d99ca40429fce9c2ee2485c45b6c877a.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/baidumapapi_v3_5_0_3106d99d643883ea66e2dffd78b0f8596bfb1b49.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/baidumapapi_v3_5_0_3106d99d643883ea66e2dffd78b0f8596bfb1b49.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-codec-1.8_2d9df7f8b4165798ab30d9bc08d2a489798da9b7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-codec-1.8_2d9df7f8b4165798ab30d9bc08d2a489798da9b7.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-lang-2.2_9dd6fee222ed1be4e418dac599cf8de75fc95c5b.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-lang-2.2_9dd6fee222ed1be4e418dac599cf8de75fc95c5b.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_ee5b539b0d0266e6abf0cd5860ab97e256e1e97f.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_ee5b539b0d0266e6abf0cd5860ab97e256e1e97f.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/fastjson-1.1.33_d7facc4d7dff77ae19a1ceca3f0d4594b7accedc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/fastjson-1.1.33_d7facc4d7dff77ae19a1ceca3f0d4594b7accedc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.2.3_d64d016bea8d230c305007ef6be56594c912b59a.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.2.3_d64d016bea8d230c305007ef6be56594c912b59a.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpclient-4.1.3_0b49e720f8256f71f895992779a2b003e8fe8fae.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpclient-4.1.3_0b49e720f8256f71f895992779a2b003e8fe8fae.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpcore-4.1.4_72f23ca3123cbc170eee47219abac4a0da36c23c.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpcore-4.1.4_72f23ca3123cbc170eee47219abac4a0da36c23c.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/iShang_lib_ecg_e71d5679e030d90f08e13e4fac83d3c7f6ad9706.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/iShang_lib_ecg_e71d5679e030d90f08e13e4fac83d3c7f6ad9706.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libTGEKG_0bdcd32703d6b3f601068c7d273838596188349d.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libTGEKG_0bdcd32703d6b3f601068c7d273838596188349d.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libTGbleManager_bfaadd949bcd6f72c2c8a31318fd57adff1682a4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libTGbleManager_bfaadd949bcd6f72c2c8a31318fd57adff1682a4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libammsdk_6eac55c1e03c7f5eb169d43bbc1497fb9d0658be.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libammsdk_6eac55c1e03c7f5eb169d43bbc1497fb9d0658be.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libdingdangota_45dad49e494fc275ac5c7fe19408d5b64f30007e.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libdingdangota_45dad49e494fc275ac5c7fe19408d5b64f30007e.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/locSDK_6.05_54fbdbdf97162df511302df955055395882b4804.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/locSDK_6.05_54fbdbdf97162df511302df955055395882b4804.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/mail_398dd9ab93daea2be19cc93990be8675d6ce80a7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/mail_398dd9ab93daea2be19cc93990be8675d6ce80a7.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xUtils-2.6.14_fb7ece95ba7ca1c034f21b05d2cd7902f8e5cded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xUtils-2.6.14_fb7ece95ba7ca1c034f21b05d2cd7902f8e5cded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xcl-charts_3df907c25bc996216d873513eaf380dbbf4972a5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xcl-charts_3df907c25bc996216d873513eaf380dbbf4972a5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values-v11/values-v11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values-v11/values-v11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values-v14/values-v14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values-v14/values-v14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/outputs/apk/sport__-debug-unaligned.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/outputs/apk/sport__-debug-unaligned.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/outputs/apk/sport__-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/outputs/apk/sport__-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/android-support-v4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/loading.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport__.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sport__.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,12 +345,65 @@
     <session id="-90916962">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="gradle" value="2" />
+          <entry key="java" value="19" />
+          <entry key="png" value="1" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Groovy" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="19" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="44" />
+          <entry key="java" value="233" />
+          <entry key="xml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="44" />
+          <entry key="JAVA" value="233" />
+          <entry key="XML" value="12" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="151" column="32" selection-start-line="151" selection-start-column="32" selection-end-line="151" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ISALONE</find>
+      <find>WRITE_EXTERNAL_STORAGE</find>
+      <find>downloadsite</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -184,6 +454,11 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-compat:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCompat2610Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleReleaseUnitTest" />
               </ExternalTaskPojo>
@@ -217,6 +492,11 @@
                 <option name="description" value="Displays the configuration model of root project 'sport__'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:animated-vector-drawable:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2610Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from root project 'sport__' (some of the displayed tasks may belong to subprojects)." />
@@ -328,6 +608,11 @@
                 <option name="name" value="preDebugAndroidTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-vector-drawable:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2610Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processDebugAndroidTestJavaRes" />
               </ExternalTaskPojo>
@@ -343,6 +628,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-ui:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUi2610Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -409,6 +699,11 @@
                 <option name="name" value="assemble" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-utils:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2610Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="help" />
@@ -473,6 +768,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-media-compat:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2610Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files. [incubating]" />
@@ -562,6 +862,11 @@
                 <option name="name" value="preReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportV42610Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugResValues" />
               </ExternalTaskPojo>
@@ -569,6 +874,11 @@
                 <option name="description" value="Runs all checks." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare android.arch.lifecycle:runtime:1.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareAndroidArchLifecycleRuntime100Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -636,6 +946,11 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-fragment:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportFragment2610Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="checkDebugManifest" />
               </ExternalTaskPojo>
@@ -671,6 +986,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:26.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72610Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Debug build." />
@@ -1158,6 +1478,17 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity0.java" />
+        <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-16" />
     <option name="y" value="3" />
@@ -1165,14 +1496,58 @@
     <option name="height" value="820" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sport__" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport__" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport__" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport__" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport__" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport__" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport__" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport__" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-xxhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport__" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport__" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport__" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport__" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport__" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport__" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sports" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1182,6 +1557,18 @@
     <property name="device.picker.selection" value="1103c4fb" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../phonenum" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cmccsi.mhealth.app.sports.activity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\minedemo\sport__\res\drawable-xxhdpi" />
+      <recent name="F:\minedemo\sport__\res\drawable-xhdpi" />
+      <recent name="F:\minedemo\sport__\res\drawable-mdpi" />
+      <recent name="F:\minedemo\sport__\res\drawable" />
+      <recent name="F:\minedemo\sport__\res\drawable-hdpi" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1303,34 +1690,172 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.32964888" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Android Profiler" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.53257793" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1853056" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="SonarLint" order="1" />
+      <window_info anchor="bottom" id="Logcat" order="2" weight="0.15014164" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.024079321" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" visible="true" weight="0.40084985" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.5141643" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.18920676" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity.java</url>
+          <line>200</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/libs/android-support-v4.jar!/android/support/v4/content/ContextCompat.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/26.1.0/73bfdb5cca1949a51219d3676700996990ea3b52/support-compat-26.1.0-sources.jar!/android/support/v4/app/SupportActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/android/support/v4/app/BaseFragmentActivityApi14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/android/support/v4/app/BaseFragmentActivityApi16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/android/support/v4/app/FragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="66" column="50" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/basic/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/proSoft/sdk/sources/android-26/android/content/pm/PackageManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="536" column="28" selection-start-line="536" selection-start-column="28" selection-end-line="536" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/26.1.0/73bfdb5cca1949a51219d3676700996990ea3b52/support-compat-26.1.0-sources.jar!/android/support/v4/content/ContextCompat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="430" column="5" lean-forward="true" selection-start-line="430" selection-start-column="5" selection-end-line="430" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/common/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1391">
+          <caret line="121" column="29" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadForgetPwdActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="349" column="54" lean-forward="true" selection-start-line="349" selection-start-column="54" selection-end-line="349" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="111" column="67" selection-start-line="111" selection-start-column="67" selection-end-line="111" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/loading.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_loading.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadAPKUpdateProgressActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="151" column="32" selection-start-line="151" selection-start-column="32" selection-end-line="151" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

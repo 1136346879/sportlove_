@@ -4,8 +4,40 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable-ldpi\\tab_setting.png"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_vector_test.png",
+        "source": "F:\\minedemo\\sport__\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_vector_test.png"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
+        "source": "F:\\minedemo\\sport__\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "F:\\minedemo\\sport__\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_arrow_drop_right_black_24dp.png",
+        "source": "F:\\minedemo\\sport__\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_arrow_drop_right_black_24dp.png"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "F:\\minedemo\\sport__\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "F:\\minedemo\\sport__\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\home_btn_bg_s.png",
         "source": "F:\\minedemo\\sport__\\res\\drawable-ldpi\\home_btn_bg_s.png"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_search_api_material.png",
+        "source": "F:\\minedemo\\sport__\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_search_api_material.png"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
+        "source": "F:\\minedemo\\sport__\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\his_titlebar_jiao.png",

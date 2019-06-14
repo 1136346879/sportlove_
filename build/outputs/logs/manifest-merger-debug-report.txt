@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:2:1-392:12
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:2:1-398:12
 	package
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:3:5-40
 	android:versionName
@@ -15,6 +15,40 @@ ADDED from F:\minedemo\sport__\AndroidManifest.xml:2:1-392:12
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from F:\minedemo\sport__\AndroidManifest.xml:7:5-10:16
+MERGED from [com.android.support:appcompat-v7:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-utils:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-utils:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:9:9-38
 	android:minSdkVersion
@@ -182,7 +216,39 @@ ADDED from F:\minedemo\sport__\AndroidManifest.xml:68:5-71:61
 	android:name
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:69:9-62
 application
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:73:5-390:19
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:73:5-396:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-media-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-core-utils:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-fragment:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-core-utils:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
 	android:label
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:77:9-41
 	android:allowBackup
@@ -241,16 +307,16 @@ ADDED from F:\minedemo\sport__\AndroidManifest.xml:105:9-110:20
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:109:13-60
 	android:name
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:106:13-88
-activity#cmccsi.mhealth.app.sports.activity.PreLoadActivity
+activity#cmccsi.mhealth.app.sports.activity.PreLoadActivity0
 ADDED from F:\minedemo\sport__\AndroidManifest.xml:111:9-122:20
 	android:screenOrientation
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:114:13-49
 	android:launchMode
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:113:13-44
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:115:13-54
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:115:13-69
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:112:13-78
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:112:13-79
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from F:\minedemo\sport__\AndroidManifest.xml:117:13-121:29
 action#android.intent.action.MAIN
@@ -267,397 +333,447 @@ ADDED from F:\minedemo\sport__\AndroidManifest.xml:123:9-127:20
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:125:13-49
 	android:name
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:124:13-87
-activity#cmccsi.mhealth.app.sports.activity.PreLoadResetPwdActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:128:9-132:20
+activity#cmccsi.mhealth.app.sports.activity.PreLoadActivity
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:128:9-133:20
 	android:screenOrientation
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:130:13-49
-	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:129:13-86
-activity#cmccsi.mhealth.app.sports.activity.PreLoadAPKUpdateProgressActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:133:9-138:20
-	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:135:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:136:13-73
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:131:13-54
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:134:13-95
-activity#cmccsi.mhealth.app.sports.activity.SettingAboutActivity
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:129:13-78
+activity#cmccsi.mhealth.app.sports.activity.PreLoadResetPwdActivity
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:134:9-138:20
+	android:screenOrientation
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:136:13-49
+	android:name
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:135:13-86
+activity#cmccsi.mhealth.app.sports.activity.PreLoadAPKUpdateProgressActivity
 ADDED from F:\minedemo\sport__\AndroidManifest.xml:139:9-144:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:142:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:141:13-49
+	android:theme
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:142:13-73
+	android:name
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:140:13-95
+activity#cmccsi.mhealth.app.sports.activity.SettingAboutActivity
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:145:9-150:20
+	android:screenOrientation
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:148:13-49
 	android:hardwareAccelerated
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:141:13-48
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:147:13-48
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:143:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:149:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:140:13-83
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:146:13-83
 activity#cmccsi.mhealth.app.sports.activity.SettingTargetStepActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:145:9-149:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:151:9-155:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:147:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:153:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:148:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:154:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:146:13-88
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:152:13-88
 activity#cmccsi.mhealth.app.sports.activity.CampaignContentActivity_new
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:150:9-154:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:156:9-160:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:152:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:158:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:153:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:159:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:151:13-90
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:157:13-90
 activity#cmccsi.mhealth.app.sports.activity.WebViewActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:155:9-159:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:161:9-165:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:157:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:163:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:158:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:164:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:156:13-78
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:162:13-78
 activity#cmccsi.mhealth.app.sports.activity.SettingTargetWeightActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:160:9-163:63
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:166:9-169:63
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:162:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:168:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:163:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:169:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:161:13-90
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:167:13-90
 activity#cmccsi.mhealth.app.sports.activity.MapSelectTRunType
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:164:9-167:63
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:170:9-173:63
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:166:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:172:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:167:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:173:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:165:13-80
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:171:13-80
 activity#cmccsi.mhealth.app.sports.activity.HRActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:168:9-172:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:174:9-178:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:170:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:176:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:171:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:177:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:169:13-73
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:175:13-73
 activity#cmccsi.mhealth.app.sports.activity.HRVActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:173:9-177:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:179:9-183:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:175:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:181:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:176:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:182:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:174:13-74
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:180:13-74
 activity#cmccsi.mhealth.app.sports.activity.MoodActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:178:9-182:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:184:9-188:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:180:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:186:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:181:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:187:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:179:13-75
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:185:13-75
 activity#cmccsi.mhealth.app.sports.ecg.activity.HistoryECGDetailActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:183:9-187:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:189:9-193:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:185:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:191:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:186:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:192:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:184:13-91
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:190:13-91
 activity#cmccsi.mhealth.app.sports.ecg.activity.ECGDetailChartActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:188:9-192:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:194:9-198:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:190:13-50
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:196:13-50
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:191:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:197:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:189:13-89
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:195:13-89
 activity#cmccsi.mhealth.app.sports.activity.RankingActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:193:9-197:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:199:9-203:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:195:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:201:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:196:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:202:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:194:13-78
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:200:13-78
 service#cmccsi.mhealth.app.sports.service.StepService_GPS
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:199:9-207:19
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:205:9-213:19
 	android:exported
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:201:13-37
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:207:13-37
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:200:13-77
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:206:13-77
 intent-filter#cmccsi.mhealth.app.sports.service.StepService_GPS
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:202:13-206:29
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:208:13-212:29
 action#cmccsi.mhealth.app.sports.service.StepService_GPS
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:203:17-92
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:209:17-92
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:203:25-89
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:209:25-89
 data
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:205:17-45
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:211:17-45
 	android:port
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:205:23-42
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:211:23-42
 service#com.baidu.location.f
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:210:9-214:19
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:216:9-220:19
 	android:enabled
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:212:13-35
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:218:13-35
 	android:process
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:213:13-38
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:219:13-38
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:211:13-48
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:217:13-48
 service#cmccsi.mhealth.app.sports.device.DeviceManagerService
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:215:9-224:19
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:221:9-230:19
 	android:enabled
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:217:13-35
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:223:13-35
 	android:exported
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:218:13-37
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:224:13-37
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:216:13-81
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:222:13-81
 intent-filter#cmccsi.mhealth.app.sports.device.DeviceManagerService
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:219:13-223:29
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:225:13-229:29
 action#cmccsi.mhealth.app.sports.device.DeviceManagerService
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:220:17-96
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:226:17-96
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:220:25-93
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:226:25-93
 meta-data#UMENG_APPKEY
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:227:9-229:56
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:233:9-235:56
 	android:value
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:229:13-53
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:235:13-53
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:228:13-40
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:234:13-40
 meta-data#UMENG_CHANNEL
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:230:9-232:33
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:236:9-238:33
 	android:value
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:232:13-30
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:238:13-30
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:231:13-41
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:237:13-41
 activity#cmccsi.mhealth.app.sports.activity.FeedBackActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:234:9-238:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:240:9-244:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:236:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:242:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:237:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:243:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:235:13-79
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:241:13-79
 uses-library#com.google.android.maps
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:242:9-244:40
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:248:9-250:40
 	android:required
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:244:13-37
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:250:13-37
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:243:13-51
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:249:13-51
 service#cmccsi.mhealth.app.sports.service.StepService
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:246:9-252:19
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:252:9-258:19
 	android:exported
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:248:13-37
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:254:13-37
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:247:13-73
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:253:13-73
 intent-filter#cmccsi.mhealth.app.sports.service.StepService
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:249:13-251:29
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:255:13-257:29
 action#cmccsi.mhealth.app.sports.service.StepService
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:250:17-88
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:256:17-88
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:250:25-85
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:256:25-85
 activity#cmccsi.mhealth.app.sports.pedo.PedometerActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:254:9-259:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:260:9-265:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:257:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:263:13-49
 	android:launchMode
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:256:13-44
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:262:13-44
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:258:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:264:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:255:13-76
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:261:13-76
 activity#cmccsi.mhealth.app.sports.ecg.activity.DeviceSettingActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:260:9-264:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:266:9-270:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:262:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:268:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:263:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:269:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:261:13-88
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:267:13-88
 activity#cmccsi.mhealth.app.sports.ecg.activity.DeviceSettingActivityTest
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:265:9-269:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:271:9-275:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:267:13-49
-	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:268:13-60
-	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:266:13-92
-activity#cmccsi.mhealth.app.sports.ecg.activity.BraceletSettingActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:270:9-274:20
-	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:272:13-49
-	android:theme
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:273:13-49
+	android:theme
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:274:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:271:13-90
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:272:13-92
+activity#cmccsi.mhealth.app.sports.ecg.activity.BraceletSettingActivity
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:276:9-280:20
+	android:screenOrientation
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:278:13-49
+	android:theme
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:279:13-49
+	android:name
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:277:13-90
 activity#cmccsi.mhealth.app.sports.ecg.activity.DeviceBindingActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:275:9-279:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:281:9-285:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:277:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:283:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:278:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:284:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:276:13-88
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:282:13-88
 activity#cmccsi.mhealth.app.sports.activity.SettingArea
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:280:9-284:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:286:9-290:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:282:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:288:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:283:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:289:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:281:13-74
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:287:13-74
 activity#com.cmcc.bracelet.lsjx.libs.DingdangSettingActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:285:9-289:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:291:9-295:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:287:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:293:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:288:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:294:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:286:13-79
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:292:13-79
 activity#cmccsi.mhealth.app.sports.pedo.PedometerActivityTest
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:291:9-296:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:297:9-302:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:294:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:300:13-49
 	android:launchMode
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:293:13-44
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:299:13-44
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:295:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:301:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:292:13-80
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:298:13-80
 receiver#cmccsi.mhealth.app.sports.basic.SendMsgBroadCast
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:298:9-301:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:304:9-307:20
 	android:label
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:300:13-45
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:306:13-45
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:299:13-76
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:305:13-76
 activity#cmccsi.mhealth.app.sports.activity.MatchContactActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:303:9-307:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:309:9-313:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:305:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:311:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:306:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:312:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:304:13-83
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:310:13-83
 activity#cmccsi.mhealth.app.sports.activity.HandAddContactActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:308:9-312:20
-	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:310:13-49
-	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:311:13-60
-	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:309:13-85
-receiver#cmccsi.mhealth.app.sports.broadcast.BootCompletedReceiver
 ADDED from F:\minedemo\sport__\AndroidManifest.xml:314:9-318:20
+	android:screenOrientation
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:316:13-49
+	android:theme
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:317:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:314:19-91
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:315:13-85
+receiver#cmccsi.mhealth.app.sports.broadcast.BootCompletedReceiver
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:320:9-324:20
+	android:name
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:320:19-91
 intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:315:13-317:29
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:321:13-323:29
 	android:priority
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:315:28-51
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:321:28-51
 action#android.intent.action.BOOT_COMPLETED
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:316:17-79
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:322:17-79
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:316:25-76
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:322:25-76
 activity#cmccsi.mhealth.app.sports.appversion.PreLoadLoginActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:321:9-325:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:327:9-331:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:323:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:329:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:324:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:330:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:322:13-85
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:328:13-85
 activity#cmccsi.mhealth.app.sports.appversion.AddDeviceActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:326:9-330:20
-	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:328:13-49
-	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:329:13-60
-	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:327:13-82
-activity#cmccsi.mhealth.app.sports.appversion.RegisteActivity
 ADDED from F:\minedemo\sport__\AndroidManifest.xml:332:9-336:20
 	android:screenOrientation
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:334:13-49
 	android:theme
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:335:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:333:13-80
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:333:13-82
+activity#cmccsi.mhealth.app.sports.appversion.RegisteActivity
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:338:9-342:20
+	android:screenOrientation
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:340:13-49
+	android:theme
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:341:13-60
+	android:name
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:339:13-80
 service#cmccsi.mhealth.app.sports.service.UpdateVersionService
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:338:9-339:19
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:344:9-345:19
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:338:18-87
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:344:18-87
 activity#cmccsi.mhealth.app.sports.activity.FirmwareDownloadProgressActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:341:9-345:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:347:9-351:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:343:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:349:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:344:13-56
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:350:13-56
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:342:13-95
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:348:13-95
 activity#cmccsi.mhealth.app.sports.activity.FirmwareUpdateProgressActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:346:9-350:20
-	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:348:13-49
-	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:349:13-56
-	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:347:13-93
-activity#cmccsi.mhealth.app.sports.activity.OpinionListActivity
 ADDED from F:\minedemo\sport__\AndroidManifest.xml:352:9-356:20
 	android:screenOrientation
 		ADDED from F:\minedemo\sport__\AndroidManifest.xml:354:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:355:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:355:13-56
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:353:13-82
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:353:13-93
+activity#cmccsi.mhealth.app.sports.activity.OpinionListActivity
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:358:9-362:20
+	android:screenOrientation
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:360:13-49
+	android:theme
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:361:13-60
+	android:name
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:359:13-82
 activity#cmccsi.mhealth.app.sports.activity.OpinionNewActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:357:9-361:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:363:9-367:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:359:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:365:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:360:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:366:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:358:13-81
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:364:13-81
 activity#cmccsi.mhealth.app.sports.activity.OpinionViewActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:362:9-366:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:368:9-372:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:364:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:370:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:365:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:371:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:363:13-82
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:369:13-82
 service#cmccsi.mhealth.app.sports.service.ProtectionService
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:368:9-369:19
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:374:9-375:19
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:368:18-84
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:374:18-84
 activity#cmccsi.mhealth.app.sports.appversion.HistorySportActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:371:9-375:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:377:9-381:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:373:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:379:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:374:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:380:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:372:13-85
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:378:13-85
 activity#cmccsi.mhealth.app.sports.pedo.SharePagerActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:376:9-380:20
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:382:9-386:20
 	android:screenOrientation
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:378:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:384:13-49
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:379:13-60
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:385:13-60
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:377:13-77
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:383:13-77
 activity#com.ai.android.picker.test.DarkThemeActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:382:9-385:58
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:388:9-391:58
 	android:windowSoftInputMode
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:385:13-55
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:391:13-55
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:384:13-43
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:390:13-43
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:383:13-72
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:389:13-72
 activity#com.ai.android.picker.test.LightThemeActivity
-ADDED from F:\minedemo\sport__\AndroidManifest.xml:386:9-389:58
+ADDED from F:\minedemo\sport__\AndroidManifest.xml:392:9-395:58
 	android:windowSoftInputMode
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:389:13-55
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:395:13-55
 	android:theme
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:388:13-49
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:394:13-49
 	android:name
-		ADDED from F:\minedemo\sport__\AndroidManifest.xml:387:13-73
+		ADDED from F:\minedemo\sport__\AndroidManifest.xml:393:13-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] F:\minedemo\sport__\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+MERGED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] F:\minedemo\sport__\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:26:13-58

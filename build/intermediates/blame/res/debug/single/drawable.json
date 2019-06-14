@@ -4,6 +4,10 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\map_type_cycle.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_addfriend_cancel.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_btn_addfriend_cancel.xml"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_race_bt.xml",
@@ -60,6 +68,10 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_grid_ecg.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_popmenu_item.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\listitem_popmenu_item.xml"
     },
@@ -68,12 +80,12 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\tab_play.xml"
     },
     {
-        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg_more.xml",
-        "source": "F:\\minedemo\\sport__\\res\\drawable\\home_btn_bg_more.xml"
-    },
-    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\np_numberpicker_up_btn_holo_light.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\np_numberpicker_up_btn_holo_light.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg_more.xml",
+        "source": "F:\\minedemo\\sport__\\res\\drawable\\home_btn_bg_more.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_add_friend.xml",
@@ -104,6 +116,10 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\select_radiobutton_activitydetails.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg_setting.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\home_btn_bg_setting.xml"
     },
@@ -120,12 +136,24 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_ev_addfriend_cancle.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\rank_radio_step_right.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\rank_radio_step_right.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_fake_tab_unchecked.xml",
@@ -148,6 +176,10 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_grid_gui.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_health.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\tab_health.xml"
     },
@@ -156,12 +188,12 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\textcolor_while2black.xml"
     },
     {
-        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\rank_roundexit_normal.xml",
-        "source": "F:\\minedemo\\sport__\\res\\drawable\\rank_roundexit_normal.xml"
-    },
-    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg_group.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\home_btn_bg_group.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\rank_roundexit_normal.xml",
+        "source": "F:\\minedemo\\sport__\\res\\drawable\\rank_roundexit_normal.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\my_button_back.xml",
@@ -180,6 +212,10 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_grid_jingsai.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\set_ok_button.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\set_ok_button.xml"
     },
@@ -194,6 +230,10 @@
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_round.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\listitem_round.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_delete_button_sure_shape.xml",
@@ -236,8 +276,16 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\sample_usercatch_button_ok_bg.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\select_shape.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\select_shape.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\color_race_title.xml",
@@ -276,12 +324,24 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\listitem_round_up_normal.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\color_tab_indicator.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\color_tab_indicator.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_delete_button_cancle_select_share.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\dialog_delete_button_cancle_select_share.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_delete_button_shape.xml",
@@ -292,8 +352,28 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\dialog_delete_button_sure_press_shape.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_round_up.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\listitem_round_up.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_weight_radio_off.xml",
@@ -310,6 +390,10 @@
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_delete_shape.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\dialog_delete_shape.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_round_up_bottom.xml",
@@ -332,8 +416,20 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_layout_round_corner.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg_brief.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\home_btn_bg_brief.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\map_type_walk.xml",
@@ -348,16 +444,36 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_btn_addfriend.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\map_type_run.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\map_type_run.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_grid_haoyou.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_grid_haoyou.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.png",
+        "source": "F:\\minedemo\\sport__\\res\\drawable\\loading.png"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_fake_tab_checked.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_fake_tab_checked.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
@@ -388,12 +504,24 @@
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_toggle.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_button_round.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\listitem_button_round.xml"
     },
     {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\brief_radio_text_color.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\brief_radio_text_color.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_delete_button_cancle_shape.xml",
@@ -402,5 +530,9 @@
     {
         "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_layout_round_corner_2.xml",
         "source": "F:\\minedemo\\sport__\\res\\drawable\\bg_layout_round_corner_2.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\sport__\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\minedemo\\sport__\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     }
 ]

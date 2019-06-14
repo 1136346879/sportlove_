@@ -109,10 +109,10 @@
             android:theme="@android:style/Theme.NoTitleBar" >
         </activity>
         <activity
-            android:name="cmccsi.mhealth.app.sports.activity.PreLoadActivity"
+            android:name="cmccsi.mhealth.app.sports.activity.PreLoadActivity0"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
-            android:theme="@style/Theme.AppStartLoad"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -123,6 +123,12 @@
         <activity
             android:name="cmccsi.mhealth.app.sports.activity.PreLoadForgetPwdActivity"
             android:screenOrientation="portrait"
+            >
+        </activity>
+        <activity
+            android:name="cmccsi.mhealth.app.sports.activity.PreLoadActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppStartLoad"
             >
         </activity>
         <activity

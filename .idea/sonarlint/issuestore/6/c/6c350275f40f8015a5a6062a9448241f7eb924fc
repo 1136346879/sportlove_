@@ -1,0 +1,40 @@
+
+Csquid:S1481^",Remove this unused "tmprand" local variable.(Œ„÷ë
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(Àç√¢¸ˇˇˇˇ
+@squid:S1148å"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+csquid:CommentedOutCodeLine≤"<This block of commented-out lines of code should be removed.(ô‰ß»
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(∏ﬁ∑ˇ˝ˇˇˇˇ
+msquid:S1450+"VRemove the "mStrURL" field and declare it as a local variable in the relevant methods.(Õ‹¢¥
+bsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ü«†À
+bsquid:CommentedOutCodeLineˇ"<This block of commented-out lines of code should be removed.(ÇëÂ0
+csquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(«ïí‰
+asquid:S3027f"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(πô‡ó
+asquid:S3027g"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(√øíÔ
+Jsquid:S1199∑"-Extract this nested code block into a method.(“Ã‚ñ¯ˇˇˇˇ
+g
+squid:S128A"LEnd this switch case with an unconditional break, return or throw statement.(£ﬁæÀ˛ˇˇˇˇ
+dsquid:S00112ö"FDefine and throw a dedicated exception instead of using a generic one.(£Ã¬˘˛ˇˇˇˇ
+bsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(“õ¬º
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(´Ù≈©
+U"squid:SwitchLastCaseIsDefaultCheck@""Add a default case to this switch.(˝ﬁ≥ã˘ˇˇˇˇ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(Ù¥Ã¸˘ˇˇˇˇ
+Nsquid:S1135!"2Complete the task associated to this TODO comment.(ˆÀÖÊ˘ˇˇˇˇ
+Ksquid:S2387;"4"mHandler" is the name of a field in "BaseActivity".(èø¥ª
+@squid:S1148ï"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+asquid:S4042ö"IUse "java.nio.Files#delete" here for better messages on error conditions.(àÇÜ∏
+bsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(Ñ‰ }
+bsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(˙öÓy
+Usquid:S1197º"8Move the array designator from the variable to the type.(»§›î˙ˇˇˇˇ
+asquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(¿ˇÂ
+R
+squid:S899ö";Do something with the "boolean" value returned by "delete".(àÇÜ∏
+csquid:CommentedOutCodeLineπ"<This block of commented-out lines of code should be removed.(Ÿ»æÁ
+Ksquid:EmptyStatementUsageCheckS"Remove this empty statement.(ÙüéÏ˙ˇˇˇˇ
+ksquid:S2095ª"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(–Ÿ»¨˙ˇˇˇˇ
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ıøŒº¸ˇˇˇˇ
+usquid:S14508"^Remove the "mIsInterruptted" field and declare it as a local variable in the relevant methods.(∑ΩñÎ
+usquid:S14507"^Remove the "mThreadDownload" field and declare it as a local variable in the relevant methods.(Œˇüè
+bsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(íåç≤
+hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(Àç√¢¸ˇˇˇˇ
+dsquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(˚◊π⁄˚ˇˇˇˇ
+lsquid:MaximumInheritanceDepth%"<This class has 7 parents which is greater than 5 authorized.(Á˘ıï8¿ﬁªüµ-

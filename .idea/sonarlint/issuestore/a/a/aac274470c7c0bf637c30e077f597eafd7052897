@@ -1,0 +1,48 @@
+
+U"squid:SwitchLastCaseIsDefaultCheckC""Add a default case to this switch.(ıŞ³‹ùÿÿÿÿ
+Bsquid:S10686"+Remove this unused "mStatus" private field.(®À’
+Dsquid:S10688"-Remove this unused "mTempCode" private field.(û‰ä
+Bsquid:S1068;"+Remove this unused "mNewPwd" private field.(¬ùÛ­
+Jsquid:S1068=".Remove this unused "mResultNet" private field.(¨¿Ç¸øÿÿÿÿ
+Bsquid:S1068?"+Remove this unused "handler" private field.(ŸÇŸÇ
+=squid:S1068„"&Remove this unused "ok" private field.(”´ú
+vsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏêŒàúÿÿÿÿ
+vsquid:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏêŒàúÿÿÿÿ
+vsquid:S1450,"`Remove the "mTextViewTitleBar" field and declare it as a local variable in the relevant methods.(†œ£I
+tsquid:S1450/"XRemove the "mButtonOk" field and declare it as a local variable in the relevant methods.(ªúş¶øÿÿÿÿ
+3squid:S3626¡"Remove this redundant jump.(ûÁİ…
+3squid:S3626ğ"Remove this redundant jump.(ûÁİ…
+gsquid:S1301C"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+qsquid:S3973£"YUse curly braces or indentation to denote the code conditionally executed by this "else".(ÔÍØ
+qsquid:S3973¬"YUse curly braces or indentation to denote the code conditionally executed by this "else".(ÔÍØ
+bsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(÷ñ‹à
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(¬¶Ìáşÿÿÿÿ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ò–Æ¦øÿÿÿÿ
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(¶„™ªşÿÿÿÿ
+gsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(¶Ó£Óıÿÿÿÿ
+gsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(Ïğóºÿÿÿÿÿ
+gsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(ÕËÁÀÿÿÿÿÿ
+bsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(›ÎÇ
+bsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(–‘ëŞ
+asquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(÷ŸÀs
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(Ïõ±ˆûÿÿÿÿ
+U
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ù¯šµıÿÿÿÿ
+U
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(Î¹ü™şÿÿÿÿ
+Nsquid:S1135z"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Osquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Osquid:S1135ø"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Osquid:S1135Š"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+ssquid:S00115ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö³ŠË
+xsquid:S00115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èõ–Ÿøÿÿÿÿ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôÙú 
+ssquid:S00115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓÂ‡á
+xsquid:S00115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖêÁâÿÿÿÿÿ
+rsquid:S00115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”´ú
+ssquid:S00115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É‰ÿ
+usquid:UselessImportCheck"QRemove this unused import 'cmccsi.mhealth.app.sports.appversion.RegisteActivity'.(Ãí¸ğ
+wsquid:UselessImportCheck"NRemove this unused import 'cmccsi.mhealth.app.sports.bean.UpdatePasswordInfo'.(Ù€„úÿÿÿÿ
+fsquid:UselessImportCheck"BRemove this unused import 'cmccsi.mhealth.app.sports.net.DataSyn'.(„Ğæ«
+ksquid:UselessImportCheck"GRemove this unused import 'cmccsi.mhealth.app.sports.common.Constants'.(àÓ²û
+jsquid:MaximumInheritanceDepth#"<This class has 7 parents which is greater than 5 authorized.(ªü©ÿúÿÿÿÿ

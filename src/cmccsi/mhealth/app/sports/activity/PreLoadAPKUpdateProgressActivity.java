@@ -16,6 +16,7 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.Message;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.webkit.URLUtil;
 import android.widget.TextView;
@@ -207,7 +208,7 @@ public class PreLoadAPKUpdateProgressActivity extends BaseActivity {
 						is.close();
 						fos.close();
 					} catch (Exception ex) {
-
+						Log.e("异常--",""+ex);
 					}
 				}
 			}
